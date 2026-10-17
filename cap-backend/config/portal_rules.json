@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "version": 1,
+  "ui": {
+    "party_name_button": "Party Name",
+    "query_input": "#number",
+    "search_button": "button[type=\"submit\"]",
+    "search_again_button": "Search Again",
+    "select_button": "Select",
+    "results_rows": "table.table-striped tbody tr",
+    "selected_button_class": "btn-primary",
+    "captcha": "iframe[src*=\"recaptcha\"], .g-recaptcha, iframe[title*=\"reCAPTCHA\"]"
+  },
+  "api": {
+    "search_path": "/api/traffic/search",
+    "select_path_prefix": "/api/traffic/select/",
+    "maintenance_path": "/api/maintenance",
+    "application_mode_path": "/api/applicationmode",
+    "normal_mode": "NORMAL"
+  },
+  "responses": {
+    "data_key": "data",
+    "result_key": "result",
+    "message_key": "message",
+    "success_result": 0,
+    "session_expired_pattern": "session expired",
+    "no_results_pattern": "no case"
+  },
+  "fields": {
+    "search_item": {
+      "caseId": "caseId",
+      "caseNumber": "caseNumber",
+      "citationNumber": "citationNumber",
+      "fileDate": "fileDate",
+      "caseCaption": "caseCaption",
+      "driversLicense": "driversLicense",
+      "dateOfBirth": "dateOfBirth",
+      "caseStatus": "caseStatus"
+    },
+    "select_data": {
+      "caseNumber": "caseNumber",
+      "caseId": "caseId",
+      "partyId": "partyId",
+      "fullName": "fullName",
+      "charges": "charges",
+      "pocChanges": "pocChanges",
+      "bailOptions": "bailOptions",
+      "bfAmount": "bfAmount",
+      "isPoc": "isPoc",
+      "hasPaymentPlan": "hasPaymentPlan",
+      "isExtensionEligible": "isExtensionEligible",
+      "originalDate": "originalDate",
+      "extendedDate": "extendedDate",
+      "maMessage": "maMessage",
+      "userMessage": "userMessage",
+      "paymentTotal": "paymentTotal",
+      "paymentMonthlyAmount": "paymentMonthlyAmount",
+      "paymentPastAmount": "paymentPastAmount",
+      "paymentMonths": "paymentMonths",
+      "paymentDueOn": "paymentDueOn",
+      "paymentDueDates": "paymentDueDates",
+      "paymentStartDate": "paymentStartDate",
+      "paymentFinalDueDate": "paymentFinalDueDate"
+    }
+  }
+}
