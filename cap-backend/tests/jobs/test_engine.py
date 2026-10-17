@@ -212,7 +212,7 @@ async def test_cancel_stops_queued_work_and_closes_the_log(tmp_path: Path) -> No
 
 async def test_requested_parallelism_is_capped_by_the_server_limit(tmp_path: Path) -> None:
     async with running_engine(tmp_path, max_workers=2) as engine:
-        job = await engine.submit(NOBODY, parallelism=99)
+        job = await engine.submit(PEDRO + JOHN + NOBODY, parallelism=99)
         await engine.finish(job)
 
     assert job.parallelism == 2

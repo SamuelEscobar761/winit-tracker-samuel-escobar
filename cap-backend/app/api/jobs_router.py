@@ -60,7 +60,7 @@ async def validate_file(
     return ValidationView(
         report=to_report_view(report),
         ready_people=len(report.queueable_people),
-        max_parallelism=settings.max_workers,
+        max_parallelism=max(1, min(settings.max_workers, len(report.queueable_people))),
         default_parallelism=min(settings.default_parallelism, settings.max_workers),
     )
 

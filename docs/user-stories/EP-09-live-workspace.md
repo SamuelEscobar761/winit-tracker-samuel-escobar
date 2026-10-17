@@ -209,3 +209,4 @@ Not in the original brief; added at the user's request. Extends EP-01 (CAPTCHA),
 | 2026-10-16 | STATUS | Approved -> In progress (roadmap Step 8: frontend) | "siguiente" |
 | 2026-10-16 | COMMENT | Implemented in `cap-frontend/src/features/upload/upload-screen.tsx`: numeric input (min 1, max = server limit) next to Start, sent as `parallelism`; the server clamps it; every lane becomes an item of the pane lists | Roadmap Step 8 |
 | 2026-10-16 | STATUS | In progress -> Done (verified in the browser against the mock backend; 47 unit tests) | Roadmap Step 8 |
+| 2026-10-16 | AMENDED | A job never gets more panes/workers than it has people to search: parallelism = min(requested, MAX_WORKERS, people), and the selector's maximum follows the same rule, so no pane waits for a worker that has nothing to do | "que si pongo 3... me permita tener 3 pantallas y no me salga waiting for worker" |

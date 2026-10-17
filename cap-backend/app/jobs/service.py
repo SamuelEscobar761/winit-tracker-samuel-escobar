@@ -145,7 +145,7 @@ class JobService:
         return Job(
             id=job_id,
             created_at=self._now(),
-            parallelism=min(max(requested, 1), self._settings.max_workers),
+            parallelism=max(1, min(requested, self._settings.max_workers, len(runs))),
             report=report,
             people=runs,
             event_log=EventLog(job_id, self._now),

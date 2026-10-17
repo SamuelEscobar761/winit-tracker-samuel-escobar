@@ -172,9 +172,17 @@ def test_jobs_are_listed_newest_first(client: TestClient) -> None:
 
 
 def test_parallelism_form_field_is_clamped_by_the_server(client: TestClient) -> None:
-    body = upload(client, CSV_HEADER + "Nemo,Nobody,,x\n", parallelism="50").json()
+    csv = CSV_HEADER + "Nemo,Nobody,,x\nAda,Nobody,,y\nBob,Nobody,,z\n"
+
+    body = upload(client, csv, parallelism="50").json()
 
     assert body["parallelism"] == 2
+
+
+def test_a_job_never_gets_more_lanes_than_it_has_people(client: TestClient) -> None:
+    body = upload(client, CSV_HEADER + "Nemo,Nobody,,x\n", parallelism="2").json()
+
+    assert body["parallelism"] == 1
 
 
 def test_cancelling_a_finished_job_is_harmless(client: TestClient) -> None:
@@ -214,7 +222,7 @@ def test_validation_returns_the_report_without_creating_a_job(client: TestClient
     assert response.status_code == 200
     assert body["ready_people"] == 1
     assert body["report"]["counts"] == {"accepted": 1, "normalized": 0, "rejected": 3}
-    assert body["max_parallelism"] == 2
+    assert body["max_parallelism"] == 1
     assert client.get("/jobs").json() == []
 
 
