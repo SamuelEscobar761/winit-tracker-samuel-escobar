@@ -16,7 +16,7 @@ interface ScraperCardProps {
 }
 
 function describeStatus(status: LaneStatus | null, state: SocketState, lane: number | null): string {
-  if (lane === null) return 'Waiting for a worker'
+  if (lane === null) return 'Waiting for a free worker (other jobs are using them)'
   if (state !== 'open') return state === 'connecting' ? 'Connecting…' : 'Reconnecting to the live view…'
   if (status?.awaiting_captcha) return 'Your turn: solve the CAPTCHA in the page above'
   if (status?.job_id) return `Live · job ${shortJobId(status.job_id)} · person ${(status.person_index ?? 0) + 1}`
@@ -73,7 +73,7 @@ export function ScraperCard({ lane, slot, isHovered, onHover, onPopOut }: Scrape
           hasFrame={socket.hasFrame}
           isInteractive={awaitingCaptcha}
           onInput={socket.sendInput}
-          placeholder={lane === null ? 'Waiting for a worker…' : 'Waiting for the first frame…'}
+          placeholder={lane === null ? 'Waiting for a free worker…' : 'Waiting for the first frame…'}
         />
       </div>
       <StatusBar text={describeStatus(socket.status, socket.state, lane)} isWaiting={awaitingCaptcha} isLive={isLive} />

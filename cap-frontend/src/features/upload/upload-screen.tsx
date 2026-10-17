@@ -13,26 +13,44 @@ interface UploadScreenProps {
   onSignOut: (() => void) | null
 }
 
-function ParallelismField({ value, max, onChange }: { value: number; max: number; onChange: (value: number) => void }) {
+interface ParallelismFieldProps {
+  value: number
+  max: number
+  serverLimit: number
+  ready: number
+  onChange: (value: number) => void
+}
+
+function limitHint({ max, serverLimit, ready }: ParallelismFieldProps): string {
+  if (ready > 0 && max < serverLimit) {
+    const people = ready === 1 ? '1 person is' : `${ready} people are`
+    return `Only ${people} ready, so more than ${max} worker${max === 1 ? '' : 's'} would sit idle (server limit: ${serverLimit}).`
+  }
+  return `Server limit: ${serverLimit}`
+}
+
+function ParallelismField(props: ParallelismFieldProps) {
+  const { value, max, onChange } = props
   return (
-    <label className="text-xs font-medium text-slate-600">
+    <label className="max-w-xs text-xs font-medium text-slate-600">
       Workers at the same time
       <input
         type="number"
         min={1}
         max={max}
-        value={value}
+        value={Math.min(value, max)}
         onChange={(event) => onChange(Math.min(max, Math.max(1, Number(event.target.value) || 1)))}
         className="mt-1 block w-28 rounded-xl bg-slate-100 px-3 py-2 text-sm outline-none focus:bg-white focus:ring-2 focus:ring-indigo-300"
       />
-      <span className="mt-1 block text-[11px] font-normal text-slate-400">Server limit: {max}</span>
+      <span className="mt-1 block text-[11px] font-normal text-slate-400">{limitHint(props)}</span>
     </label>
   )
 }
 
 export function UploadScreen({ config, onSignOut }: UploadScreenProps) {
   const upload = useUpload(config?.default_parallelism ?? 1)
-  const maxParallelism = upload.validation?.max_parallelism ?? config?.max_workers ?? 1
+  const serverLimit = config?.max_workers ?? 1
+  const maxParallelism = upload.validation?.max_parallelism ?? serverLimit
   const ready = upload.validation?.ready_people ?? 0
 
   const start = async () => {
@@ -68,7 +86,13 @@ export function UploadScreen({ config, onSignOut }: UploadScreenProps) {
         )}
         {upload.validation && <ValidationReport validation={upload.validation} />}
         <div className="mt-6 flex flex-wrap items-end gap-4 rounded-3xl bg-white p-5 shadow-card ring-1 ring-slate-200/70">
-          <ParallelismField value={upload.parallelism} max={maxParallelism} onChange={upload.setParallelism} />
+          <ParallelismField
+            value={upload.parallelism}
+            max={maxParallelism}
+            serverLimit={serverLimit}
+            ready={ready}
+            onChange={upload.setParallelism}
+          />
           <button
             type="button"
             disabled={ready === 0 || upload.isBusy}
