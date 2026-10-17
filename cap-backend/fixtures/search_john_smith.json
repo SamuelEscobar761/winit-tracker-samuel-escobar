@@ -1,0 +1,2867 @@
+{
+  "data": [
+    {
+      "caseId": "35154",
+      "caseNumber": "022242JS",
+      "citationNumber": "022242",
+      "fileDate": "10/1/1998",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "B8155989",
+      "dateOfBirth": "7/24/1978",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "48131",
+      "caseNumber": "034886JS",
+      "citationNumber": "034886",
+      "fileDate": "8/9/1999",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "B8155989",
+      "dateOfBirth": "7/24/1978",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "62483",
+      "caseNumber": "045043JS",
+      "citationNumber": "045043",
+      "fileDate": "3/21/2000",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "B8155989",
+      "dateOfBirth": "7/24/1978",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "64780",
+      "caseNumber": "04685QJR",
+      "citationNumber": "04685QJ",
+      "fileDate": "2/7/2002",
+      "caseCaption": "ROBERTSON'S READY MIX",
+      "driversLicense": "",
+      "dateOfBirth": "",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "79643",
+      "caseNumber": "05794NLJS",
+      "citationNumber": "05794NL",
+      "fileDate": "3/1/2012",
+      "caseCaption": "SMITH, JOHN KEVIN",
+      "driversLicense": "C0403815",
+      "dateOfBirth": "9/19/1961",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "95644",
+      "caseNumber": "065818SAJS",
+      "citationNumber": "065818SA",
+      "fileDate": "3/19/2011",
+      "caseCaption": "SMITH, JOHN A",
+      "driversLicense": "D4860365",
+      "dateOfBirth": "4/29/1986",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "118385",
+      "caseNumber": "076343SAJS",
+      "citationNumber": "076343SA",
+      "fileDate": "6/25/2012",
+      "caseCaption": "SMITH, JOHN WILLIAM",
+      "driversLicense": "F0851609",
+      "dateOfBirth": "10/9/1939",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "145136",
+      "caseNumber": "0954816JS",
+      "citationNumber": "0954816",
+      "fileDate": "7/20/2011",
+      "caseCaption": "SMITH, JOHN EDWARD",
+      "driversLicense": "C5871535",
+      "dateOfBirth": "6/21/1951",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "153536",
+      "caseNumber": "09711NDJS",
+      "citationNumber": "09711ND",
+      "fileDate": "12/27/2011",
+      "caseCaption": "SMITH, JOHN PHILIP",
+      "driversLicense": "C6123893",
+      "dateOfBirth": "1/3/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "183933",
+      "caseNumber": "11532JS",
+      "citationNumber": "11532",
+      "fileDate": "9/16/2008",
+      "caseCaption": "SMITH, JOHN ROLAND",
+      "driversLicense": "C3019867",
+      "dateOfBirth": "12/2/1966",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "230758",
+      "caseNumber": "15165QAJS",
+      "citationNumber": "15165QA",
+      "fileDate": "7/10/2012",
+      "caseCaption": "SMITH, JOHN CLEMENT",
+      "driversLicense": "N3079582",
+      "dateOfBirth": "5/12/1927",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "237327",
+      "caseNumber": "16061KUJS",
+      "citationNumber": "16061KU",
+      "fileDate": "5/27/2009",
+      "caseCaption": "SMITH, JOHN RANDAL",
+      "driversLicense": "D9419319",
+      "dateOfBirth": "3/25/1988",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "237504",
+      "caseNumber": "16084NLJS",
+      "citationNumber": "16084NL",
+      "fileDate": "11/25/2011",
+      "caseCaption": "SMITH, JOHN NOBLE",
+      "driversLicense": "N6770967",
+      "dateOfBirth": "3/28/1958",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "253955",
+      "caseNumber": "1714512KM",
+      "citationNumber": "1714512",
+      "fileDate": "4/9/2000",
+      "caseCaption": "MCCAUSLANDNORMAN, KAREN",
+      "driversLicense": "S0351390",
+      "dateOfBirth": "5/5/1951",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "280953",
+      "caseNumber": "19671UWJS",
+      "citationNumber": "19671UW",
+      "fileDate": "4/2/2005",
+      "caseCaption": "SMITH, JOHN BRADLEYERIC",
+      "driversLicense": "D6565120",
+      "dateOfBirth": "4/2/1985",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "285534",
+      "caseNumber": "2013116JS",
+      "citationNumber": "2013116",
+      "fileDate": "3/28/2002",
+      "caseCaption": "SMITH, JOHN NOBLE",
+      "driversLicense": "N6770967",
+      "dateOfBirth": "3/28/1958",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "299599",
+      "caseNumber": "20851NLJS",
+      "citationNumber": "20851NL",
+      "fileDate": "9/1/2012",
+      "caseCaption": "SMITH, JOHN SCOTT",
+      "driversLicense": "C3803023",
+      "dateOfBirth": "9/30/1967",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "303666",
+      "caseNumber": "21015NCJS",
+      "citationNumber": "21015NC",
+      "fileDate": "7/29/2011",
+      "caseCaption": "SMITH, JOHN DALLAS",
+      "driversLicense": "C2422962",
+      "dateOfBirth": "8/3/1965",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "314310",
+      "caseNumber": "21487PRJS",
+      "citationNumber": "21487PR",
+      "fileDate": "4/6/2012",
+      "caseCaption": "SMITH, JOHN SCOTT",
+      "driversLicense": "C3803023",
+      "dateOfBirth": "9/30/1967",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "325807",
+      "caseNumber": "219414JS",
+      "citationNumber": "219414",
+      "fileDate": "8/15/1999",
+      "caseCaption": "SMITH, JOHN XAVIER",
+      "driversLicense": "C1896472",
+      "dateOfBirth": "9/2/1965",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "384713",
+      "caseNumber": "246706JS",
+      "citationNumber": "246706",
+      "fileDate": "11/28/1992",
+      "caseCaption": "SMITH, JOHN XAVIER",
+      "driversLicense": "C1896472",
+      "dateOfBirth": "9/2/1965",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "434886",
+      "caseNumber": "27598DSJS",
+      "citationNumber": "27598DS",
+      "fileDate": "4/7/2008",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "B8155989",
+      "dateOfBirth": "7/24/1978",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "453710",
+      "caseNumber": "2857525JS",
+      "citationNumber": "2857525",
+      "fileDate": "3/14/2010",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "B8155989",
+      "dateOfBirth": "7/24/1978",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "462201",
+      "caseNumber": "2908192JS",
+      "citationNumber": "2908192",
+      "fileDate": "5/4/2009",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "E0963743",
+      "dateOfBirth": "11/7/1954",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "519375",
+      "caseNumber": "3155639TJ",
+      "citationNumber": "3155639",
+      "fileDate": "1/13/2011",
+      "caseCaption": "JONES, TIMOTHY SCOTT",
+      "driversLicense": "A1756964",
+      "dateOfBirth": "7/11/1968",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "545007",
+      "caseNumber": "32278KSJS",
+      "citationNumber": "32278KS",
+      "fileDate": "7/5/2009",
+      "caseCaption": "SMITH, JOHN RUSSELL",
+      "driversLicense": "E2234996",
+      "dateOfBirth": "8/9/1983",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "554696",
+      "caseNumber": "3251617JS",
+      "citationNumber": "3251617",
+      "fileDate": "4/21/2011",
+      "caseCaption": "SMITH, JOHN G",
+      "driversLicense": "",
+      "dateOfBirth": "",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "622442",
+      "caseNumber": "344552JS",
+      "citationNumber": "344552",
+      "fileDate": "4/11/2008",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "B8155989",
+      "dateOfBirth": "7/24/1978",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "669651",
+      "caseNumber": "384610GG",
+      "citationNumber": "384610",
+      "fileDate": "4/19/2000",
+      "caseCaption": "GREEN, GEROLD BRIAN",
+      "driversLicense": "A1736056",
+      "dateOfBirth": "1/27/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "675406",
+      "caseNumber": "389832GG",
+      "citationNumber": "389832",
+      "fileDate": "12/21/2013",
+      "caseCaption": "GREEN, GEROLD BRIAN",
+      "driversLicense": "A1736056",
+      "dateOfBirth": "1/27/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "702286",
+      "caseNumber": "415695JS",
+      "citationNumber": "415695",
+      "fileDate": "10/23/2001",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "B8155989",
+      "dateOfBirth": "7/24/1978",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "743317",
+      "caseNumber": "44986MQJS",
+      "citationNumber": "44986MQ",
+      "fileDate": "2/19/2011",
+      "caseCaption": "SMITH, JOHN BAUER",
+      "driversLicense": "D0819714",
+      "dateOfBirth": "2/22/1988",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "762991",
+      "caseNumber": "464049",
+      "citationNumber": "464922",
+      "fileDate": "4/15/2004",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "B8155989",
+      "dateOfBirth": "7/24/1978",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "776968",
+      "caseNumber": "47463QHJS",
+      "citationNumber": "47463QH",
+      "fileDate": "4/5/2013",
+      "caseCaption": "SMITH, JOHN ROBERT",
+      "driversLicense": "15381577",
+      "dateOfBirth": "8/10/1951",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "785957",
+      "caseNumber": "48230PWJS",
+      "citationNumber": "48230PW",
+      "fileDate": "8/31/2012",
+      "caseCaption": "SMITH, JOHN LEWIS",
+      "driversLicense": "PH100933",
+      "dateOfBirth": "5/13/1944",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "787387",
+      "caseNumber": "48356JS",
+      "citationNumber": "48356",
+      "fileDate": "5/4/2012",
+      "caseCaption": "SMITH, JOHN CHRISTOPHER",
+      "driversLicense": "D1394767",
+      "dateOfBirth": "8/8/1985",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "799722",
+      "caseNumber": "49416RLJS",
+      "citationNumber": "49416RL",
+      "fileDate": "7/7/2014",
+      "caseCaption": "SMITH, JOHN WAYNE",
+      "driversLicense": "N4828179",
+      "dateOfBirth": "3/12/1948",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "801130",
+      "caseNumber": "49537CAKM",
+      "citationNumber": "49537CA",
+      "fileDate": "6/7/2008",
+      "caseCaption": "MCCAUSLANDNORMAN, KAREN",
+      "driversLicense": "S0351390",
+      "dateOfBirth": "5/5/1951",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "811767",
+      "caseNumber": "50424PJJS",
+      "citationNumber": "50424PJ",
+      "fileDate": "1/27/2012",
+      "caseCaption": "SMITH, JOHN BURDETT",
+      "driversLicense": "C0113518",
+      "dateOfBirth": "7/13/1963",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "868253",
+      "caseNumber": "55429RLJS",
+      "citationNumber": "55429RL",
+      "fileDate": "6/9/2013",
+      "caseCaption": "SMITH, JOHN GOLDWIN",
+      "driversLicense": "17020897",
+      "dateOfBirth": "1/15/1957",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "896159",
+      "caseNumber": "58047HHTJ",
+      "citationNumber": "58047HH",
+      "fileDate": "10/11/2010",
+      "caseCaption": "JONES, TIMOTHY SCOTT",
+      "driversLicense": "A1756964",
+      "dateOfBirth": "7/11/1968",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "896285",
+      "caseNumber": "58061HHJS",
+      "citationNumber": "58061HH",
+      "fileDate": "9/5/2010",
+      "caseCaption": "SMITH, JOHN LAVOY",
+      "driversLicense": "K0128840",
+      "dateOfBirth": "11/10/1944",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "899669",
+      "caseNumber": "58411PJJS",
+      "citationNumber": "58411PJ",
+      "fileDate": "2/5/2012",
+      "caseCaption": "SMITH, JOHN DALLAS",
+      "driversLicense": "C2422962",
+      "dateOfBirth": "8/3/1965",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "903702",
+      "caseNumber": "58803NVJS",
+      "citationNumber": "58803NV",
+      "fileDate": "9/16/2011",
+      "caseCaption": "SMITH, JOHN CLAUDE",
+      "driversLicense": "G0538357",
+      "dateOfBirth": "10/12/1934",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "921861",
+      "caseNumber": "5GBQ001CYJS",
+      "citationNumber": "5GBQ001CY",
+      "fileDate": "2/23/2014",
+      "caseCaption": "SMITH, JOHN C.",
+      "driversLicense": "A6455750",
+      "dateOfBirth": "4/14/1971",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "997134",
+      "caseNumber": "633853JS",
+      "citationNumber": "633853",
+      "fileDate": "7/22/2000",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "S0403633",
+      "dateOfBirth": "3/18/1948",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1003273",
+      "caseNumber": "63776RAJS",
+      "citationNumber": "63776RA",
+      "fileDate": "1/25/2014",
+      "caseCaption": "SMITH, JOHN FRANKLIN",
+      "driversLicense": "Y0001685",
+      "dateOfBirth": "3/10/1960",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1045779",
+      "caseNumber": "666109JS",
+      "citationNumber": "666109",
+      "fileDate": "1/22/2002",
+      "caseCaption": "SMITH, JOHN GRANVILLE",
+      "driversLicense": "N5753586",
+      "dateOfBirth": "10/19/1959",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1074137",
+      "caseNumber": "686452KM",
+      "citationNumber": "686452",
+      "fileDate": "2/4/2003",
+      "caseCaption": "MCCAUSLANDNORMAN, KAREN",
+      "driversLicense": "S0351390",
+      "dateOfBirth": "5/5/1951",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1122654",
+      "caseNumber": "725898KM",
+      "citationNumber": "725898",
+      "fileDate": "8/9/2004",
+      "caseCaption": "MCCAUSLANDNORMAN, KAREN",
+      "driversLicense": "S0351390",
+      "dateOfBirth": "5/5/1951",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1126045",
+      "caseNumber": "72951AU",
+      "citationNumber": "72951AU",
+      "fileDate": "9/13/2005",
+      "caseCaption": "SMITH, JOHN NOBLE",
+      "driversLicense": "N6770967",
+      "dateOfBirth": "3/28/1958",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1145898",
+      "caseNumber": "75336NVJS",
+      "citationNumber": "75336NV",
+      "fileDate": "1/6/2012",
+      "caseCaption": "SMITH, JOHN NOBLE",
+      "driversLicense": "N6770967",
+      "dateOfBirth": "3/28/1958",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1146686",
+      "caseNumber": "75426PRJS",
+      "citationNumber": "75426PR",
+      "fileDate": "10/16/2012",
+      "caseCaption": "SMITH, JOHN HENRY",
+      "driversLicense": "58230780",
+      "dateOfBirth": "5/30/1971",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1157797",
+      "caseNumber": "77065KKJS",
+      "citationNumber": "77065KK",
+      "fileDate": "9/4/2009",
+      "caseCaption": "SMITH, JOHN C",
+      "driversLicense": "X6489090",
+      "dateOfBirth": "1/17/1962",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1168842",
+      "caseNumber": "78697NVJS",
+      "citationNumber": "78697NV",
+      "fileDate": "3/8/2012",
+      "caseCaption": "SMITH, JOHN THOMAS",
+      "driversLicense": "J0686159",
+      "dateOfBirth": "6/18/1927",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1176013",
+      "caseNumber": "79829NVJS",
+      "citationNumber": "79829NV",
+      "fileDate": "3/29/2012",
+      "caseCaption": "SMITH, JOHN FREDERICK",
+      "driversLicense": "N9542886",
+      "dateOfBirth": "4/4/1961",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1183949",
+      "caseNumber": "810866GG",
+      "citationNumber": "810866",
+      "fileDate": "5/20/2007",
+      "caseCaption": "GREEN, GEROLD BRIAN",
+      "driversLicense": "A1736056",
+      "dateOfBirth": "1/27/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1187669",
+      "caseNumber": "81658NVJS",
+      "citationNumber": "81658NV",
+      "fileDate": "12/29/2011",
+      "caseCaption": "SMITH, JOHN ANDREW",
+      "driversLicense": "N6820722",
+      "dateOfBirth": "7/12/1960",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1195698",
+      "caseNumber": "828311JS",
+      "citationNumber": "828311",
+      "fileDate": "4/14/2006",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "S0403633",
+      "dateOfBirth": "3/18/1948",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1203779",
+      "caseNumber": "838840",
+      "citationNumber": "838840",
+      "fileDate": "1/3/2006",
+      "caseCaption": "GREEN, GEROLD BRIAN",
+      "driversLicense": "A1736056",
+      "dateOfBirth": "1/27/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1213427",
+      "caseNumber": "850813JS",
+      "citationNumber": "850813",
+      "fileDate": "2/13/2007",
+      "caseCaption": "SMITH, JOHN GRANVILLE",
+      "driversLicense": "N5753586",
+      "dateOfBirth": "10/19/1959",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1224254",
+      "caseNumber": "86513RQTJ",
+      "citationNumber": "86513RQ",
+      "fileDate": "3/28/2003",
+      "caseCaption": "JONES, TIMOTHY SCOTT",
+      "driversLicense": "A1756964",
+      "dateOfBirth": "7/11/1968",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1244454",
+      "caseNumber": "888659GG",
+      "citationNumber": "888659",
+      "fileDate": "12/31/2008",
+      "caseCaption": "GREEN, GEROLD BRIAN",
+      "driversLicense": "A1736056",
+      "dateOfBirth": "1/27/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1276695",
+      "caseNumber": "91738PWJS",
+      "citationNumber": "91738PW",
+      "fileDate": "5/24/2012",
+      "caseCaption": "SMITH, JOHN S",
+      "driversLicense": "",
+      "dateOfBirth": "",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1302899",
+      "caseNumber": "94102MAJS",
+      "citationNumber": "94102MA",
+      "fileDate": "1/10/2012",
+      "caseCaption": "SMITH, JOHN EDWARD",
+      "driversLicense": "62480120",
+      "dateOfBirth": "3/17/1967",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1308652",
+      "caseNumber": "946064JS",
+      "citationNumber": "946064",
+      "fileDate": "7/31/2011",
+      "caseCaption": "SMITH, JOHN EDWARD",
+      "driversLicense": "E0450417",
+      "dateOfBirth": "9/18/1950",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1316951",
+      "caseNumber": "95422DJJS",
+      "citationNumber": "95422DJ",
+      "fileDate": "12/18/2013",
+      "caseCaption": "SMITH, JOHN DAVID",
+      "driversLicense": "80081100",
+      "dateOfBirth": "11/23/1971",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1325482",
+      "caseNumber": "96502UVCB",
+      "citationNumber": "96502UV",
+      "fileDate": "3/8/2005",
+      "caseCaption": "BENNETT, COREY",
+      "driversLicense": "A7012574",
+      "dateOfBirth": "6/29/1973",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1337081",
+      "caseNumber": "97935BJJS",
+      "citationNumber": "97935BJ",
+      "fileDate": "3/13/2006",
+      "caseCaption": "SMITH, JOHN D",
+      "driversLicense": "C3804689",
+      "dateOfBirth": "2/2/1948",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1354688",
+      "caseNumber": "99802HDJS",
+      "citationNumber": "99802HD",
+      "fileDate": "12/6/2010",
+      "caseCaption": "SMITH, JOHN RAY",
+      "driversLicense": "C6698521",
+      "dateOfBirth": "5/5/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1423687",
+      "caseNumber": "DN76986JS",
+      "citationNumber": "DN76986",
+      "fileDate": "7/16/1997",
+      "caseCaption": "SMITH, JOHN F",
+      "driversLicense": "S5778407",
+      "dateOfBirth": "2/27/1964",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1433458",
+      "caseNumber": "F70835",
+      "citationNumber": "F70835",
+      "fileDate": "5/13/2003",
+      "caseCaption": "JONES, TIMOTHY SCOTT",
+      "driversLicense": "A1756964",
+      "dateOfBirth": "7/11/1968",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1567338",
+      "caseNumber": "G128650JS",
+      "citationNumber": "G128650",
+      "fileDate": "3/28/2013",
+      "caseCaption": "SMITH, JOHN RANDAL",
+      "driversLicense": "D9419319",
+      "dateOfBirth": "3/25/1988",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1598176",
+      "caseNumber": "KT39145JS",
+      "citationNumber": "KT39145",
+      "fileDate": "9/26/1999",
+      "caseCaption": "SMITH, JOHN GILBERT",
+      "driversLicense": "B5218867",
+      "dateOfBirth": "11/26/1976",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1598729",
+      "caseNumber": "KT43755JS",
+      "citationNumber": "KT43755",
+      "fileDate": "12/30/1999",
+      "caseCaption": "SMITH, JOHN CURTIS",
+      "driversLicense": "B5976747",
+      "dateOfBirth": "6/24/1979",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1607012",
+      "caseNumber": "LM20048JS",
+      "citationNumber": "LM20048",
+      "fileDate": "10/11/1999",
+      "caseCaption": "SMITH, JOHN STEVEN",
+      "driversLicense": "D1341876",
+      "dateOfBirth": "11/8/1968",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1610252",
+      "caseNumber": "LT95163KM",
+      "citationNumber": "LT95163",
+      "fileDate": "2/11/2000",
+      "caseCaption": "MCCAUSLANDNORMAN, KAREN",
+      "driversLicense": "S0351390",
+      "dateOfBirth": "5/5/1951",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1615081",
+      "caseNumber": "M441012JS",
+      "citationNumber": "M441012",
+      "fileDate": "12/1/1998",
+      "caseCaption": "SMITH, JOHN HENRY",
+      "driversLicense": "A0780118",
+      "dateOfBirth": "12/24/1946",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1643943",
+      "caseNumber": "M695215",
+      "citationNumber": "M695215",
+      "fileDate": "5/9/2008",
+      "caseCaption": "SMITH, JOHN ROLAND",
+      "driversLicense": "C3019867",
+      "dateOfBirth": "12/2/1966",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1644986",
+      "caseNumber": "M703112",
+      "citationNumber": "M703112",
+      "fileDate": "5/12/2008",
+      "caseCaption": "SMITH, JOHN ROLAND",
+      "driversLicense": "C3019867",
+      "dateOfBirth": "12/2/1966",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1681929",
+      "caseNumber": "MM61943JS",
+      "citationNumber": "MM61943",
+      "fileDate": "7/22/2000",
+      "caseCaption": "SMITH, JOHN WILLIAM",
+      "driversLicense": "E0323434",
+      "dateOfBirth": "1/24/1952",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1691727",
+      "caseNumber": "MNE7544",
+      "citationNumber": "1333507",
+      "fileDate": "8/21/1997",
+      "caseCaption": "SMITH, JOHN HARDING",
+      "driversLicense": "",
+      "dateOfBirth": "12/10/1967",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1736796",
+      "caseNumber": "MS31053JS",
+      "citationNumber": "MS31053",
+      "fileDate": "10/16/2000",
+      "caseCaption": "SMITH, JOHN O'NEAL",
+      "driversLicense": "B9477546",
+      "dateOfBirth": "4/4/1981",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1766113",
+      "caseNumber": "MSB066202",
+      "citationNumber": "UP2656",
+      "fileDate": "12/16/2002",
+      "caseCaption": "SMITH, JOHN DAVID",
+      "driversLicense": "",
+      "dateOfBirth": "9/18/1950",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1769886",
+      "caseNumber": "MSB073059",
+      "citationNumber": "2090386",
+      "fileDate": "11/20/2003",
+      "caseCaption": "DINWIDDIE, MALIK R",
+      "driversLicense": "B7579040",
+      "dateOfBirth": "10/7/1979",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1819116",
+      "caseNumber": "MVA031892",
+      "citationNumber": "398832",
+      "fileDate": "1/24/2001",
+      "caseCaption": "GREEN, GEROLD BRIAN",
+      "driversLicense": "A1736056",
+      "dateOfBirth": "1/27/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1824553",
+      "caseNumber": "MVA040397",
+      "citationNumber": "93031515",
+      "fileDate": "2/8/2003",
+      "caseCaption": "GREEN, GEROLD BRIAN",
+      "driversLicense": "A1736056",
+      "dateOfBirth": "1/27/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1879333",
+      "caseNumber": "MWV035834",
+      "citationNumber": "M422910",
+      "fileDate": "4/2/1997",
+      "caseCaption": "BARABIN, JERRY DUPREE",
+      "driversLicense": "A5980915",
+      "dateOfBirth": "3/14/1972",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1934654",
+      "caseNumber": "MWV704966",
+      "citationNumber": "M689028",
+      "fileDate": "8/31/2007",
+      "caseCaption": "SMITH, JOHN ROLAND",
+      "driversLicense": "C3019867",
+      "dateOfBirth": "12/2/1966",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1936396",
+      "caseNumber": "MWV800393",
+      "citationNumber": "2619094",
+      "fileDate": "8/1/2007",
+      "caseCaption": "SMITH, JOHN ROLAND",
+      "driversLicense": "C3019867",
+      "dateOfBirth": "12/2/1966",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1937462",
+      "caseNumber": "MWV802943",
+      "citationNumber": "M703526",
+      "fileDate": "4/9/2008",
+      "caseCaption": "SMITH, JOHN ROLAND",
+      "driversLicense": "C3019867",
+      "dateOfBirth": "12/2/1966",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1939541",
+      "caseNumber": "MWV900542",
+      "citationNumber": "MO00711555",
+      "fileDate": "1/21/2009",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "",
+      "dateOfBirth": "8/25/1985",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1961945",
+      "caseNumber": "P79255JS",
+      "citationNumber": "P79255",
+      "fileDate": "11/8/1995",
+      "caseCaption": "SMITH, JOHN EDWARD",
+      "driversLicense": "E0450417",
+      "dateOfBirth": "9/15/1950",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1969929",
+      "caseNumber": "RCA0201314JS",
+      "citationNumber": "RCA0201314",
+      "fileDate": "7/15/2014",
+      "caseCaption": "SMITH, JOHN RICHARD",
+      "driversLicense": "N7019665",
+      "dateOfBirth": "10/18/1960",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1972844",
+      "caseNumber": "RE10998JS",
+      "citationNumber": "RE10998",
+      "fileDate": "3/19/2009",
+      "caseCaption": "SMITH, JOHN O'NEAL",
+      "driversLicense": "B9477546",
+      "dateOfBirth": "4/4/1981",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1978501",
+      "caseNumber": "SB2376JS",
+      "citationNumber": "SB2376",
+      "fileDate": "3/27/2004",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "S0403633",
+      "dateOfBirth": "3/18/1948",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2005814",
+      "caseNumber": "SH266742JS",
+      "citationNumber": "SH266742",
+      "fileDate": "3/15/2002",
+      "caseCaption": "SMITH, JOHN WILLIAM",
+      "driversLicense": "E0323434",
+      "dateOfBirth": "1/24/1952",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2008440",
+      "caseNumber": "TBA045006",
+      "citationNumber": "27557TJ",
+      "fileDate": "8/14/2004",
+      "caseCaption": "SMITH, JOHN CURTIS",
+      "driversLicense": "B5976747",
+      "dateOfBirth": "6/24/1979",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2050643",
+      "caseNumber": "TSB102942",
+      "citationNumber": "LH61135",
+      "fileDate": "11/4/1999",
+      "caseCaption": "SMITH, JOHN WESTLY",
+      "driversLicense": "K0909959",
+      "dateOfBirth": "7/1/1946",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2052309",
+      "caseNumber": "TSB105519",
+      "citationNumber": "630291",
+      "fileDate": "10/29/2000",
+      "caseCaption": "SMITH, JOHN GRANVILLE",
+      "driversLicense": "N5753586",
+      "dateOfBirth": "10/19/1959",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2068830",
+      "caseNumber": "TSB900581",
+      "citationNumber": "92969JW",
+      "fileDate": "11/18/2008",
+      "caseCaption": "SMITH, JOHN FREDERICK",
+      "driversLicense": "C2848155",
+      "dateOfBirth": "8/17/1964",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2069340",
+      "caseNumber": "TSB901536",
+      "citationNumber": "13392KL",
+      "fileDate": "2/20/2009",
+      "caseCaption": "SMITH, JOHN WYATT",
+      "driversLicense": "B9269422",
+      "dateOfBirth": "3/31/1969",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2079068",
+      "caseNumber": "TVA82877",
+      "citationNumber": "JC28538",
+      "fileDate": "10/27/1998",
+      "caseCaption": "BARABIN, JERRY DUPREE",
+      "driversLicense": "A5980915",
+      "dateOfBirth": "3/14/1972",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2089363",
+      "caseNumber": "TVI049343",
+      "citationNumber": "2012289",
+      "fileDate": "5/27/2002",
+      "caseCaption": "SMITH, JOHN LANGSTON",
+      "driversLicense": "N5720173",
+      "dateOfBirth": "5/28/1958",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2093464",
+      "caseNumber": "TVI056757",
+      "citationNumber": "73923AU",
+      "fileDate": "10/9/2005",
+      "caseCaption": "HARWELL, MARK WILLIAM",
+      "driversLicense": "B9534227",
+      "dateOfBirth": "6/27/1971",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2099537",
+      "caseNumber": "TVI45177",
+      "citationNumber": "1624366",
+      "fileDate": "9/8/1999",
+      "caseCaption": "SMITH, JOHN LEWIS",
+      "driversLicense": "C4767893",
+      "dateOfBirth": "6/22/1945",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2109675",
+      "caseNumber": "TWV038703",
+      "citationNumber": "2047700",
+      "fileDate": "8/9/2002",
+      "caseCaption": "SMITH, JOHN LAMAR",
+      "driversLicense": "C4571078",
+      "dateOfBirth": "11/14/1967",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2114895",
+      "caseNumber": "TWV047801",
+      "citationNumber": "42716VV",
+      "fileDate": "4/29/2005",
+      "caseCaption": "SMITH, JOHN LAMAR",
+      "driversLicense": "C4571078",
+      "dateOfBirth": "11/14/1967",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2149997",
+      "caseNumber": "U348727JS",
+      "citationNumber": "U348727",
+      "fileDate": "2/6/2007",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "C6998981",
+      "dateOfBirth": "12/7/1969",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2179493",
+      "caseNumber": "UP5123963RJS",
+      "citationNumber": "UP5123963R",
+      "fileDate": "4/17/2007",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "C6998981",
+      "dateOfBirth": "12/7/1969",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2237953",
+      "caseNumber": "VI6878JS",
+      "citationNumber": "VI6878",
+      "fileDate": "3/23/2001",
+      "caseCaption": "SMITH, JOHN CHRISTIAN",
+      "driversLicense": "A0963954",
+      "dateOfBirth": "9/27/1971",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2238532",
+      "caseNumber": "WB19663JS",
+      "citationNumber": "WB19663",
+      "fileDate": "9/20/1993",
+      "caseCaption": "SMITH, JOHN STEPHEN",
+      "driversLicense": "A7205615",
+      "dateOfBirth": "11/1/1972",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2241144",
+      "caseNumber": "Y085923JS",
+      "citationNumber": "Y085923",
+      "fileDate": "3/13/2002",
+      "caseCaption": "SMITH, JOHN HILLARY",
+      "driversLicense": "P0784411",
+      "dateOfBirth": "9/11/1937",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2241675",
+      "caseNumber": "Y130744JS",
+      "citationNumber": "Y130744",
+      "fileDate": "6/30/2004",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "52708169",
+      "dateOfBirth": "2/1/1955",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2252079",
+      "caseNumber": "009189JS",
+      "citationNumber": "009189",
+      "fileDate": "7/22/1997",
+      "caseCaption": "SMITH, JOHN GRANVILLE",
+      "driversLicense": "",
+      "dateOfBirth": "10/19/1959",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2311394",
+      "caseNumber": "09210TPJS",
+      "citationNumber": "09210TP",
+      "fileDate": "5/21/2015",
+      "caseCaption": "SMITH, JOHN RAY",
+      "driversLicense": "",
+      "dateOfBirth": "5/5/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2324641",
+      "caseNumber": "0977104TJ",
+      "citationNumber": "0977104",
+      "fileDate": "6/14/2013",
+      "caseCaption": "JONES, TIMOTHY SCOTT",
+      "driversLicense": "",
+      "dateOfBirth": "7/11/1968",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2337162",
+      "caseNumber": "1005012JS",
+      "citationNumber": "1005012",
+      "fileDate": "1/25/1996",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "UNK",
+      "dateOfBirth": "12/30/1966",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2371340",
+      "caseNumber": "12345JWJS",
+      "citationNumber": "12345JW",
+      "fileDate": "4/15/2008",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "A0000000",
+      "dateOfBirth": "1/1/1962",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2387084",
+      "caseNumber": "1350255JS",
+      "citationNumber": "1350255",
+      "fileDate": "5/14/1998",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "",
+      "dateOfBirth": "11/7/1954",
+      "caseStatus": "Pending Adjudication"
+    },
+    {
+      "caseId": "2405056",
+      "caseNumber": "1478788JS",
+      "citationNumber": "1478788",
+      "fileDate": "9/26/1998",
+      "caseCaption": "SMITH, JOHN GRANVILLE",
+      "driversLicense": "",
+      "dateOfBirth": "10/19/1959",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2470170",
+      "caseNumber": "21335QKJS",
+      "citationNumber": "21335QK",
+      "fileDate": "8/1/2002",
+      "caseCaption": "SMITH, JOHN F",
+      "driversLicense": "",
+      "dateOfBirth": "2/27/1964",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "2503553",
+      "caseNumber": "2385757",
+      "citationNumber": "2385757",
+      "fileDate": "11/12/2005",
+      "caseCaption": "ADAMS, JESS D",
+      "driversLicense": "N6453410",
+      "dateOfBirth": "6/12/1958",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2511029",
+      "caseNumber": "2430019JS",
+      "citationNumber": "2430019",
+      "fileDate": "6/29/2006",
+      "caseCaption": "SMITH, JOHN SEMAN",
+      "driversLicense": "",
+      "dateOfBirth": "7/21/1952",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2518236",
+      "caseNumber": "2469254",
+      "citationNumber": "2469254",
+      "fileDate": "11/23/2005",
+      "caseCaption": "SMITH, JOHN STEVEN",
+      "driversLicense": "",
+      "dateOfBirth": "11/8/1968",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2528340",
+      "caseNumber": "25168JWJS",
+      "citationNumber": "25168JW",
+      "fileDate": "12/3/2008",
+      "caseCaption": "SMITH, JOHN EDWARD",
+      "driversLicense": "A5588185",
+      "dateOfBirth": "5/29/1971",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2541465",
+      "caseNumber": "26054KSJS",
+      "citationNumber": "26054KS",
+      "fileDate": "5/17/2009",
+      "caseCaption": "SMITH, JOHN GRANVILLE",
+      "driversLicense": "",
+      "dateOfBirth": "10/19/1959",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "2569600",
+      "caseNumber": "28261RRJS",
+      "citationNumber": "28261RR",
+      "fileDate": "9/1/2002",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "A2659139",
+      "dateOfBirth": "2/13/1969",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2585899",
+      "caseNumber": "2938385JS",
+      "citationNumber": "2938385",
+      "fileDate": "12/26/2008",
+      "caseCaption": "SMITH, JOHN EDWARD",
+      "driversLicense": "A5588185",
+      "dateOfBirth": "5/29/1971",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2596035",
+      "caseNumber": "30033HHJS",
+      "citationNumber": "30033HH",
+      "fileDate": "8/5/2011",
+      "caseCaption": "SMITH, JOHN CHRISTOPHER",
+      "driversLicense": "",
+      "dateOfBirth": "8/8/1985",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2636450",
+      "caseNumber": "3249JB",
+      "citationNumber": "3249",
+      "fileDate": "11/1/1994",
+      "caseCaption": "BARABIN, JERRY DUPREE",
+      "driversLicense": "",
+      "dateOfBirth": "3/14/1972",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2639355",
+      "caseNumber": "3269978JS",
+      "citationNumber": "3269978",
+      "fileDate": "8/25/2011",
+      "caseCaption": "SMITH, JOHN S",
+      "driversLicense": "A7205615",
+      "dateOfBirth": "11/1/1972",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2644696",
+      "caseNumber": "3297935JS",
+      "citationNumber": "3297935",
+      "fileDate": "1/11/2012",
+      "caseCaption": "SMITH, JOHN CHRISTOPHER",
+      "driversLicense": "",
+      "dateOfBirth": "8/8/1985",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "2670707",
+      "caseNumber": "3430089JS",
+      "citationNumber": "3430089",
+      "fileDate": "1/2/2013",
+      "caseCaption": "SMITH, JOHN PATRICK",
+      "driversLicense": "K0183757",
+      "dateOfBirth": "8/5/1989",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2693258",
+      "caseNumber": "3533058BW",
+      "citationNumber": "3533058",
+      "fileDate": "2/4/2015",
+      "caseCaption": "WARE, BRANDON KEITH",
+      "driversLicense": "D2460895",
+      "dateOfBirth": "12/16/1981",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "2724606",
+      "caseNumber": "368909JS",
+      "citationNumber": "368909",
+      "fileDate": "6/26/1999",
+      "caseCaption": "SMITH, JOHN LAWRENCE",
+      "driversLicense": "A0276389",
+      "dateOfBirth": "9/21/1952",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2741553",
+      "caseNumber": "38849JS",
+      "citationNumber": "38849",
+      "fileDate": "4/20/1993",
+      "caseCaption": "SMITH, JOHN CARL",
+      "driversLicense": "A7055890",
+      "dateOfBirth": "9/25/1969",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2757755",
+      "caseNumber": "403781JS",
+      "citationNumber": "403781",
+      "fileDate": "4/5/2001",
+      "caseCaption": "SMITH, JOHN O'NEAL",
+      "driversLicense": "",
+      "dateOfBirth": "4/4/1981",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "2757942",
+      "caseNumber": "403971JS",
+      "citationNumber": "403971",
+      "fileDate": "4/4/2001",
+      "caseCaption": "SMITH, JOHN O'NEAL",
+      "driversLicense": "",
+      "dateOfBirth": "4/4/1981",
+      "caseStatus": "Probation"
+    },
+    {
+      "caseId": "2761184",
+      "caseNumber": "407929JS",
+      "citationNumber": "407929",
+      "fileDate": "6/7/2001",
+      "caseCaption": "SMITH, JOHN O'NEAL",
+      "driversLicense": "",
+      "dateOfBirth": "4/4/1981",
+      "caseStatus": "Probation"
+    },
+    {
+      "caseId": "2824737",
+      "caseNumber": "490269JS",
+      "citationNumber": "490269",
+      "fileDate": "11/17/1995",
+      "caseCaption": "SMITH, JOHN RAYMOND",
+      "driversLicense": "UNK",
+      "dateOfBirth": "8/16/1951",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2853815",
+      "caseNumber": "52597JS",
+      "citationNumber": "52597",
+      "fileDate": "4/1/1995",
+      "caseCaption": "SMITH, JOHN HOWARD",
+      "driversLicense": "N9137749",
+      "dateOfBirth": "8/8/1960",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2881603",
+      "caseNumber": "560687JS",
+      "citationNumber": "560687",
+      "fileDate": "6/25/1998",
+      "caseCaption": "SMITH, JOHN GRANVILLE",
+      "driversLicense": "",
+      "dateOfBirth": "10/19/1959",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2883179",
+      "caseNumber": "562411JS",
+      "citationNumber": "562411",
+      "fileDate": "1/20/1999",
+      "caseCaption": "SMITH, JOHN EDWARD",
+      "driversLicense": "",
+      "dateOfBirth": "9/18/1950",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2930160",
+      "caseNumber": "5Y7P0000WJS",
+      "citationNumber": "5Y7P0000W",
+      "fileDate": "10/24/2015",
+      "caseCaption": "SMITH, JOHN KEVIN",
+      "driversLicense": "",
+      "dateOfBirth": "9/19/1961",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2968124",
+      "caseNumber": "609741JS",
+      "citationNumber": "609741",
+      "fileDate": "4/15/2000",
+      "caseCaption": "SMITH, JOHN O'NEAL",
+      "driversLicense": "",
+      "dateOfBirth": "4/4/1981",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2992093",
+      "caseNumber": "64034TPJS",
+      "citationNumber": "64034TP",
+      "fileDate": "5/25/2015",
+      "caseCaption": "SMITH, JOHN SCOTT",
+      "driversLicense": "",
+      "dateOfBirth": "9/30/1967",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2997255",
+      "caseNumber": "64615PRJS",
+      "citationNumber": "64615PR",
+      "fileDate": "1/23/2012",
+      "caseCaption": "SMITH, JOHN CHRISTOPHER",
+      "driversLicense": "",
+      "dateOfBirth": "8/8/1985",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3018820",
+      "caseNumber": "673465JS",
+      "citationNumber": "673465",
+      "fileDate": "10/3/2001",
+      "caseCaption": "SMITH, JOHN A",
+      "driversLicense": "",
+      "dateOfBirth": "8/4/1968",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "3052652",
+      "caseNumber": "71598PKJS",
+      "citationNumber": "71598PK",
+      "fileDate": "5/30/2001",
+      "caseCaption": "SMITH, JOHN XAVIER",
+      "driversLicense": "C1896472",
+      "dateOfBirth": "2/19/1965",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3053776",
+      "caseNumber": "71731JS",
+      "citationNumber": "71731",
+      "fileDate": "8/1/2003",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "S0268303",
+      "dateOfBirth": "11/12/1946",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "3098828",
+      "caseNumber": "76337PWJS",
+      "citationNumber": "76337PW",
+      "fileDate": "7/18/2001",
+      "caseCaption": "SMITH, JOHN HENRY",
+      "driversLicense": "",
+      "dateOfBirth": "7/15/1945",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3101681",
+      "caseNumber": "77007SMJS",
+      "citationNumber": "77007SM",
+      "fileDate": "8/27/2014",
+      "caseCaption": "SMITH, JOHN WAYNE",
+      "driversLicense": "X6706205",
+      "dateOfBirth": "9/25/1963",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "3110112",
+      "caseNumber": "78783JS",
+      "citationNumber": "78783",
+      "fileDate": "2/10/1990",
+      "caseCaption": "SMITH, JOHN REGINALD",
+      "driversLicense": "NIP",
+      "dateOfBirth": "1/1/1969",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "3122696",
+      "caseNumber": "81012JS",
+      "citationNumber": "81012",
+      "fileDate": "1/8/1994",
+      "caseCaption": "SMITH, JOHN WAYNE",
+      "driversLicense": "C5219106",
+      "dateOfBirth": "10/31/1966",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "3126329",
+      "caseNumber": "81518TUJS",
+      "citationNumber": "81518TU",
+      "fileDate": "9/18/2015",
+      "caseCaption": "SMITH, JOHN NOBLE",
+      "driversLicense": "",
+      "dateOfBirth": "3/28/1958",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3137098",
+      "caseNumber": "832313JS",
+      "citationNumber": "832313",
+      "fileDate": "7/24/2006",
+      "caseCaption": "SMITH, JOHN GRANVILLE",
+      "driversLicense": "",
+      "dateOfBirth": "10/19/1959",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "3145941",
+      "caseNumber": "84695KN",
+      "citationNumber": "84695",
+      "fileDate": "10/6/2001",
+      "caseCaption": "MCCAUSLANDNORMAN, KAREN",
+      "driversLicense": "",
+      "dateOfBirth": "5/5/1951",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "3180646",
+      "caseNumber": "89860RBJA",
+      "citationNumber": "89860RB",
+      "fileDate": "6/12/2002",
+      "caseCaption": "ADAMS, JESS D",
+      "driversLicense": "N6453410",
+      "dateOfBirth": "6/12/1958",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3184069",
+      "caseNumber": "90361SMJA",
+      "citationNumber": "90361SM",
+      "fileDate": "4/18/2014",
+      "caseCaption": "ADAMS, JESS D",
+      "driversLicense": "N6453410",
+      "dateOfBirth": "6/12/1958",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "3196342",
+      "caseNumber": "920913GG",
+      "citationNumber": "920913",
+      "fileDate": "8/13/2009",
+      "caseCaption": "GREEN, GEROLD BRIAN",
+      "driversLicense": "",
+      "dateOfBirth": "1/27/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3224706",
+      "caseNumber": "97338JS",
+      "citationNumber": "97338",
+      "fileDate": "4/13/2005",
+      "caseCaption": "SMITH, JOHN HENRY",
+      "driversLicense": "",
+      "dateOfBirth": "7/15/1945",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "3263651",
+      "caseNumber": "AVP5769KN",
+      "citationNumber": "AVP5769",
+      "fileDate": "2/12/2009",
+      "caseCaption": "MCCAUSLANDNORMAN, KAREN",
+      "driversLicense": "",
+      "dateOfBirth": "5/5/1951",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "3263800",
+      "caseNumber": "AVP6338JS",
+      "citationNumber": "AVP6338",
+      "fileDate": "8/27/2009",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "A2659139",
+      "dateOfBirth": "2/13/1969",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "3354025",
+      "caseNumber": "EM35266JS",
+      "citationNumber": "EM35266",
+      "fileDate": "8/16/1997",
+      "caseCaption": "SMITH, JOHN GRANVILLE",
+      "driversLicense": "",
+      "dateOfBirth": "10/19/1959",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "3578119",
+      "caseNumber": "GT004804BJS",
+      "citationNumber": "GT004804B",
+      "fileDate": "9/15/2011",
+      "caseCaption": "SMITH, JOHN CHRISTOPHER",
+      "driversLicense": "",
+      "dateOfBirth": "8/8/1985",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3588716",
+      "caseNumber": "HEA0100117JS",
+      "citationNumber": "HEA0100117",
+      "fileDate": "1/21/2013",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "A2659139",
+      "dateOfBirth": "2/13/1969",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3595175",
+      "caseNumber": "JC28772JS",
+      "citationNumber": "JC28772",
+      "fileDate": "11/1/1998",
+      "caseCaption": "SMITH, JOHN KENNEDY",
+      "driversLicense": "JK404PZ",
+      "dateOfBirth": "10/22/1960",
+      "caseStatus": "Pending Adjudication"
+    },
+    {
+      "caseId": "3598674",
+      "caseNumber": "JL75558JS",
+      "citationNumber": "JL75558",
+      "fileDate": "2/16/1999",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "",
+      "dateOfBirth": "11/7/1954",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "3612589",
+      "caseNumber": "KV95765KM",
+      "citationNumber": "KV95765",
+      "fileDate": "10/2/1999",
+      "caseCaption": "MCCAUSLANDNORMAN, KAREN",
+      "driversLicense": "",
+      "dateOfBirth": "5/5/1951",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "3620257",
+      "caseNumber": "LM20650JS",
+      "citationNumber": "LM20650",
+      "fileDate": "11/13/1999",
+      "caseCaption": "SMITH, JOHN STEVEN",
+      "driversLicense": "",
+      "dateOfBirth": "11/8/1968",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3624600",
+      "caseNumber": "LU30572JS",
+      "citationNumber": "LU30572",
+      "fileDate": "5/14/2000",
+      "caseCaption": "SMITH, JOHN CONRAD",
+      "driversLicense": "S0598860",
+      "dateOfBirth": "5/19/1946",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "3633885",
+      "caseNumber": "M322833JB",
+      "citationNumber": "M322833",
+      "fileDate": "11/27/1993",
+      "caseCaption": "BARABIN, JERRY DUPREE",
+      "driversLicense": "",
+      "dateOfBirth": "3/14/1972",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "3671005",
+      "caseNumber": "M683319JS",
+      "citationNumber": "M683319",
+      "fileDate": "6/13/2007",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "A2659139",
+      "dateOfBirth": "2/13/1969",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "3671430",
+      "caseNumber": "M686710JS",
+      "citationNumber": "M686710",
+      "fileDate": "7/31/2007",
+      "caseCaption": "SMITH, JOHN ROLAND",
+      "driversLicense": "",
+      "dateOfBirth": "12/2/1966",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "3677878",
+      "caseNumber": "MBA014139",
+      "citationNumber": "P111034",
+      "fileDate": "8/15/2005",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "",
+      "dateOfBirth": "9/9/1959",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "3740736",
+      "caseNumber": "MO00843483JS",
+      "citationNumber": "MO00843483",
+      "fileDate": "6/4/2015",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "",
+      "dateOfBirth": "12/12/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3746083",
+      "caseNumber": "MRE015475",
+      "citationNumber": "72805",
+      "fileDate": "7/21/2003",
+      "caseCaption": "GREEN, GEROLD BRIAN",
+      "driversLicense": "",
+      "dateOfBirth": "1/27/1970",
+      "caseStatus": "Pending Adjudication"
+    },
+    {
+      "caseId": "3749738",
+      "caseNumber": "MSB026503-1",
+      "citationNumber": "1211883",
+      "fileDate": "8/14/1996",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "",
+      "dateOfBirth": "12/30/1977",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3754777",
+      "caseNumber": "MSB041249",
+      "citationNumber": "592779",
+      "fileDate": "3/21/1999",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "C5479399",
+      "dateOfBirth": "3/15/1948",
+      "caseStatus": "Probation"
+    },
+    {
+      "caseId": "3765048",
+      "caseNumber": "MSB066335-2",
+      "citationNumber": "UP2661",
+      "fileDate": "1/7/2003",
+      "caseCaption": "SMITH, JOHN DAVID",
+      "driversLicense": "",
+      "dateOfBirth": "9/18/1950",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3766145",
+      "caseNumber": "MSB068718",
+      "citationNumber": "UP7970",
+      "fileDate": "4/23/2003",
+      "caseCaption": "SMITH, JOHN DAVID",
+      "driversLicense": "",
+      "dateOfBirth": "9/18/1950",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "3771313",
+      "caseNumber": "MSB078326",
+      "citationNumber": "712693",
+      "fileDate": "4/20/2004",
+      "caseCaption": "DINWIDDIE, MALIK R",
+      "driversLicense": "",
+      "dateOfBirth": "10/7/1979",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3788850",
+      "caseNumber": "MSB1102907",
+      "citationNumber": "3312707",
+      "fileDate": "9/12/2011",
+      "caseCaption": "SMITH, JOHN GRANVILLE",
+      "driversLicense": "",
+      "dateOfBirth": "10/19/1959",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3818911",
+      "caseNumber": "MSB808014",
+      "citationNumber": "2898692",
+      "fileDate": "11/8/2008",
+      "caseCaption": "GREEN, GEROLD BRIAN",
+      "driversLicense": "",
+      "dateOfBirth": "1/27/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3828196",
+      "caseNumber": "MVA030396",
+      "citationNumber": "389155",
+      "fileDate": "8/20/2000",
+      "caseCaption": "GREEN, GEROLD BRIAN",
+      "driversLicense": "",
+      "dateOfBirth": "1/27/1970",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "3838383",
+      "caseNumber": "MVA051865",
+      "citationNumber": "512518",
+      "fileDate": "5/26/2006",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "",
+      "dateOfBirth": "1/26/1978",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "3849078",
+      "caseNumber": "MVA1400869-2",
+      "citationNumber": "713191",
+      "fileDate": "3/26/2014",
+      "caseCaption": "ADAMS, JESS D",
+      "driversLicense": "N6453410",
+      "dateOfBirth": "6/12/1958",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3866184",
+      "caseNumber": "MVI037409-2",
+      "citationNumber": "1627265",
+      "fileDate": "3/27/2003",
+      "caseCaption": "SMITH, JOHN DAVID",
+      "driversLicense": "",
+      "dateOfBirth": "9/18/1950",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "3869981",
+      "caseNumber": "MVI044181",
+      "citationNumber": "2383293",
+      "fileDate": "2/3/2005",
+      "caseCaption": "SMITH, JOHN FRANKLIN",
+      "driversLicense": "",
+      "dateOfBirth": "5/7/1957",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "3879404",
+      "caseNumber": "MVI1103293",
+      "citationNumber": "3230613",
+      "fileDate": "7/4/2011",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "",
+      "dateOfBirth": "7/24/1978",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "3879771",
+      "caseNumber": "MVI1103870",
+      "citationNumber": "3209210",
+      "fileDate": "9/27/2011",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "",
+      "dateOfBirth": "7/24/1978",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "3910499",
+      "caseNumber": "MWV037723",
+      "citationNumber": "M414910",
+      "fileDate": "6/19/1997",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "A2659139",
+      "dateOfBirth": "2/13/1969",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3924742",
+      "caseNumber": "MWV070379",
+      "citationNumber": "105190",
+      "fileDate": "11/16/2001",
+      "caseCaption": "DOE, JOHN",
+      "driversLicense": "A5019499",
+      "dateOfBirth": "2/7/1951",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "3947328",
+      "caseNumber": "MWV102910-2",
+      "citationNumber": "2401599",
+      "fileDate": "12/12/2005",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "A2659139",
+      "dateOfBirth": "2/13/1969",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3986312",
+      "caseNumber": "MWV700347",
+      "citationNumber": "M660939",
+      "fileDate": "2/3/2007",
+      "caseCaption": "BARABIN, JERRY DUPREE",
+      "driversLicense": "",
+      "dateOfBirth": "3/14/1972",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "4014578",
+      "caseNumber": "P144371JS",
+      "citationNumber": "P144371",
+      "fileDate": "11/10/2014",
+      "caseCaption": "SMITH, JOHN CURTIS",
+      "driversLicense": "",
+      "dateOfBirth": "6/24/1979",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4027991",
+      "caseNumber": "RC40509JS",
+      "citationNumber": "RC40509",
+      "fileDate": "10/14/1990",
+      "caseCaption": "SMITH, JOHN JOSEPH",
+      "driversLicense": "A3196173",
+      "dateOfBirth": "7/2/1965",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4032044",
+      "caseNumber": "RCM0400174JS",
+      "citationNumber": "RCM0400174",
+      "fileDate": "12/16/2015",
+      "caseCaption": "SMITH, JOHN KENNETH",
+      "driversLicense": "B7889022",
+      "dateOfBirth": "6/16/1979",
+      "caseStatus": "Inactive"
+    },
+    {
+      "caseId": "4038263",
+      "caseNumber": "RR36796JS",
+      "citationNumber": "RR36796",
+      "fileDate": "5/20/1991",
+      "caseCaption": "SMITH, JOHN EDWARD",
+      "driversLicense": "N8490135",
+      "dateOfBirth": "4/3/1960",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4063772",
+      "caseNumber": "SK65475JS",
+      "citationNumber": "SK65475",
+      "fileDate": "10/6/1991",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "",
+      "dateOfBirth": "2/26/1963",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4074337",
+      "caseNumber": "TBV700232",
+      "citationNumber": "2662520",
+      "fileDate": "9/15/2007",
+      "caseCaption": "SMITH, JOHN RUSSELL",
+      "driversLicense": "",
+      "dateOfBirth": "8/9/1983",
+      "caseStatus": "Probation"
+    },
+    {
+      "caseId": "4084106",
+      "caseNumber": "TEST22JS",
+      "citationNumber": "TEST22",
+      "fileDate": "9/1/2015",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "",
+      "dateOfBirth": "",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4084110",
+      "caseNumber": "TEST23JSJS",
+      "citationNumber": "TEST23JS",
+      "fileDate": "9/1/2015",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "",
+      "dateOfBirth": "",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4084112",
+      "caseNumber": "TEST24JS",
+      "citationNumber": "TEST24",
+      "fileDate": "9/1/2015",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "",
+      "dateOfBirth": "",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4084114",
+      "caseNumber": "TEST25JS",
+      "citationNumber": "TEST25",
+      "fileDate": "9/1/2015",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "",
+      "dateOfBirth": "",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4092400",
+      "caseNumber": "TN78603JS",
+      "citationNumber": "TN78603",
+      "fileDate": "1/4/1992",
+      "caseCaption": "SMITH, JOHN BARTEL",
+      "driversLicense": "R0857017",
+      "dateOfBirth": "5/30/1950",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4093362",
+      "caseNumber": "TN88570JS",
+      "citationNumber": "TN88570",
+      "fileDate": "10/31/1991",
+      "caseCaption": "SMITH, JOHN ROBERT",
+      "driversLicense": "N7103193",
+      "dateOfBirth": "12/9/1931",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4102984",
+      "caseNumber": "TSB104029",
+      "citationNumber": "1725756",
+      "fileDate": "4/1/2000",
+      "caseCaption": "SMITH, JOHN GRANVILLE",
+      "driversLicense": "",
+      "dateOfBirth": "10/19/1959",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4114611",
+      "caseNumber": "TSB1202420",
+      "citationNumber": "G134726",
+      "fileDate": "8/23/2012",
+      "caseCaption": "SMITH, JOHN RANDAL",
+      "driversLicense": "",
+      "dateOfBirth": "3/25/1988",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4138278",
+      "caseNumber": "TVA700516",
+      "citationNumber": "930614112",
+      "fileDate": "12/18/2006",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "",
+      "dateOfBirth": "7/24/1978",
+      "caseStatus": "Pending Adjudication"
+    },
+    {
+      "caseId": "4138862",
+      "caseNumber": "TVA800337",
+      "citationNumber": "2600237",
+      "fileDate": "9/18/2007",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "",
+      "dateOfBirth": "7/24/1978",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "4152316",
+      "caseNumber": "TVI1001288",
+      "citationNumber": "38672MM",
+      "fileDate": "5/8/2010",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "",
+      "dateOfBirth": "7/24/1978",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "4160571",
+      "caseNumber": "TVI1501059",
+      "citationNumber": "3574635",
+      "fileDate": "4/30/2015",
+      "caseCaption": "SMITH, JOHN EDWARD",
+      "driversLicense": "A5588185",
+      "dateOfBirth": "5/29/1971",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4163901",
+      "caseNumber": "TVI701493",
+      "citationNumber": "2683178",
+      "fileDate": "7/4/2007",
+      "caseCaption": "SMITH, JOHN EDWARD",
+      "driversLicense": "A5588185",
+      "dateOfBirth": "5/29/1971",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4173780",
+      "caseNumber": "TWV040217",
+      "citationNumber": "31163RW",
+      "fileDate": "1/28/2003",
+      "caseCaption": "SMITH, JOHN JOSEPH",
+      "driversLicense": "55304706",
+      "dateOfBirth": "8/23/1966",
+      "caseStatus": "Pending Adjudication"
+    },
+    {
+      "caseId": "4206079",
+      "caseNumber": "U116229JS",
+      "citationNumber": "U116229",
+      "fileDate": "7/18/1992",
+      "caseCaption": "SMITH, JOHN HENRY",
+      "driversLicense": "NIP",
+      "dateOfBirth": "9/3/1969",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4224781",
+      "caseNumber": "U324472JS",
+      "citationNumber": "U324472",
+      "fileDate": "6/15/2003",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "A2659139",
+      "dateOfBirth": "2/13/1969",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4225625",
+      "caseNumber": "U333033JS",
+      "citationNumber": "U333033",
+      "fileDate": "1/29/2006",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "A2659139",
+      "dateOfBirth": "2/13/1969",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4227601",
+      "caseNumber": "U343696JS",
+      "citationNumber": "U343696",
+      "fileDate": "9/13/2006",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "A2659139",
+      "dateOfBirth": "2/13/1969",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4229740",
+      "caseNumber": "U355669JS",
+      "citationNumber": "U355669",
+      "fileDate": "12/11/2006",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "A2659139",
+      "dateOfBirth": "2/13/1969",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4237654",
+      "caseNumber": "U450843JS",
+      "citationNumber": "U450843",
+      "fileDate": "1/3/2013",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "",
+      "dateOfBirth": "12/7/1969",
+      "caseStatus": "Probation"
+    },
+    {
+      "caseId": "4240258",
+      "caseNumber": "U461646JS",
+      "citationNumber": "U461646",
+      "fileDate": "1/17/2015",
+      "caseCaption": "SMITH, JOHN M",
+      "driversLicense": "E2081627",
+      "dateOfBirth": "7/7/1963",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4245153",
+      "caseNumber": "UJ60385JS",
+      "citationNumber": "UJ60385",
+      "fileDate": "5/8/1992",
+      "caseCaption": "SMITH, JOHN ROBERT",
+      "driversLicense": "N7103193",
+      "dateOfBirth": "12/9/1931",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4251079",
+      "caseNumber": "UQ59650JS",
+      "citationNumber": "UQ59650",
+      "fileDate": "7/12/1992",
+      "caseCaption": "SMITH, JOHN LYONS",
+      "driversLicense": "A0988533",
+      "dateOfBirth": "4/14/1953",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4277041",
+      "caseNumber": "VCA0100528MH",
+      "citationNumber": "VCA0100528",
+      "fileDate": "2/19/2013",
+      "caseCaption": "HARWELL, MARK WILLIAM",
+      "driversLicense": "B9534227",
+      "dateOfBirth": "6/27/1971",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4288186",
+      "caseNumber": "VK73260JS",
+      "citationNumber": "VK73260",
+      "fileDate": "3/10/1993",
+      "caseCaption": "SMITH, JOHN A",
+      "driversLicense": "X9122801",
+      "dateOfBirth": "10/14/1940",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4290442",
+      "caseNumber": "VK98115JS",
+      "citationNumber": "VK98115",
+      "fileDate": "2/5/1993",
+      "caseCaption": "SMITH, JOHN K",
+      "driversLicense": "N3582889",
+      "dateOfBirth": "8/22/1954",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4418991",
+      "caseNumber": "16CR-018366",
+      "citationNumber": "0999486",
+      "fileDate": "4/15/2016",
+      "caseCaption": "MOATS, JOHN WAYNE",
+      "driversLicense": "A2615467",
+      "dateOfBirth": "10/15/1969",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4443531",
+      "caseNumber": "16CR-025866",
+      "citationNumber": "3622162",
+      "fileDate": "8/9/2015",
+      "caseCaption": "ADAMS, JESS D",
+      "driversLicense": "N6453410",
+      "dateOfBirth": "6/12/1958",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4469642",
+      "caseNumber": "16IN-063834",
+      "citationNumber": "D423314",
+      "fileDate": "7/5/2016",
+      "caseCaption": "DINWIDDIE, MALIK RASHAD",
+      "driversLicense": "B7579040",
+      "dateOfBirth": "10/7/1979",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4485738",
+      "caseNumber": "16IN-073588",
+      "citationNumber": "D425613",
+      "fileDate": "7/5/2016",
+      "caseCaption": "DINWIDDIE, MALIK RASHAD",
+      "driversLicense": "B7579040",
+      "dateOfBirth": "10/7/1979",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4550334",
+      "caseNumber": "16IN-113482",
+      "citationNumber": "RD00700357",
+      "fileDate": "10/16/2016",
+      "caseCaption": "SMITH, JOHN LANCASTER",
+      "driversLicense": "R0017944",
+      "dateOfBirth": "12/22/1948",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4572898",
+      "caseNumber": "16CR-069087",
+      "citationNumber": "3685604",
+      "fileDate": "9/26/2016",
+      "caseCaption": "Bam Bam",
+      "driversLicense": "A5980915",
+      "dateOfBirth": "3/14/1972",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "4600798",
+      "caseNumber": "17IN-006459",
+      "citationNumber": "CM91288",
+      "fileDate": "1/2/2017",
+      "caseCaption": "ADAMS, JESS D",
+      "driversLicense": "N6453410",
+      "dateOfBirth": "6/12/1958",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4635103",
+      "caseNumber": "17IN-026623",
+      "citationNumber": "406864",
+      "fileDate": "2/8/2017",
+      "caseCaption": "SMITH, JOHN BURDETT",
+      "driversLicense": "C0113518",
+      "dateOfBirth": "7/13/1963",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4639846",
+      "caseNumber": "17IN-030061",
+      "citationNumber": "RCA0402698",
+      "fileDate": "3/13/2017",
+      "caseCaption": "SMITH, JOHN GRANVILLE",
+      "driversLicense": "N5753586",
+      "dateOfBirth": "10/19/1959",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4662672",
+      "caseNumber": "MVI17003259",
+      "citationNumber": "3676627",
+      "fileDate": "3/11/2017",
+      "caseCaption": "WARE, BRANDON KEITH",
+      "driversLicense": "D2460895",
+      "dateOfBirth": "12/16/1981",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4687778",
+      "caseNumber": "17IN-059271",
+      "citationNumber": "DA13436",
+      "fileDate": "4/24/2017",
+      "caseCaption": "SMITH, JOHN ROBERT",
+      "driversLicense": "S53047698053",
+      "dateOfBirth": "2/13/1998",
+      "caseStatus": "Inactive"
+    },
+    {
+      "caseId": "4693863",
+      "caseNumber": "16CR-090062",
+      "citationNumber": "3681087",
+      "fileDate": "6/23/2016",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "C6998981",
+      "dateOfBirth": "12/7/1969",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4700885",
+      "caseNumber": "MWV17013989",
+      "citationNumber": "3725223",
+      "fileDate": "2/2/2017",
+      "caseCaption": "SMITH, JOHN NEIL",
+      "driversLicense": "E1470750",
+      "dateOfBirth": "1/10/1971",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "4703942",
+      "caseNumber": "MVI17005356",
+      "citationNumber": "3732755",
+      "fileDate": "5/12/2017",
+      "caseCaption": "Smith, John",
+      "driversLicense": "C6998981",
+      "dateOfBirth": "12/7/1969",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4730630",
+      "caseNumber": "MVI17007025",
+      "citationNumber": "3731830",
+      "fileDate": "5/30/2017",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "C6998981",
+      "dateOfBirth": "12/7/1969",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4732125",
+      "caseNumber": "MVI17007167",
+      "citationNumber": "3743831",
+      "fileDate": "6/4/2017",
+      "caseCaption": "Smith, John Junior",
+      "driversLicense": "C6998981",
+      "dateOfBirth": "12/7/1969",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4777347",
+      "caseNumber": "MWV17023627",
+      "citationNumber": "788306",
+      "fileDate": "8/14/2017",
+      "caseCaption": "MOATS, JOHN WAYNE",
+      "driversLicense": "F3253850",
+      "dateOfBirth": "10/15/1969",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4841345",
+      "caseNumber": "17IN-155422",
+      "citationNumber": "HC09476",
+      "fileDate": "12/6/2017",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "A1129701",
+      "dateOfBirth": "1/11/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4880600",
+      "caseNumber": "18IN-019645",
+      "citationNumber": "HC36808",
+      "fileDate": "2/3/2018",
+      "caseCaption": "LOPEZ, JORGE RIVERA",
+      "driversLicense": "B9337374",
+      "dateOfBirth": "3/10/1981",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4968283",
+      "caseNumber": "MVI18007040",
+      "citationNumber": "3776964",
+      "fileDate": "1/7/2018",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "C6998981",
+      "dateOfBirth": "12/7/1969",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "4970271",
+      "caseNumber": "MVI18007217",
+      "citationNumber": "DS15540",
+      "fileDate": "9/29/2017",
+      "caseCaption": "SMITH, JOHN EDWARD",
+      "driversLicense": "N5588185",
+      "dateOfBirth": "5/29/1971",
+      "caseStatus": "Probation"
+    },
+    {
+      "caseId": "5098175",
+      "caseNumber": "18IN-160560",
+      "citationNumber": "HH86572",
+      "fileDate": "12/9/2018",
+      "caseCaption": "SMITH, JOHN ROBERT",
+      "driversLicense": "S53047698053",
+      "dateOfBirth": "2/13/1998",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "5131899",
+      "caseNumber": "19IN-016284",
+      "citationNumber": "817628",
+      "fileDate": "1/26/2019",
+      "caseCaption": "SMITH, JOHN ELDRIDGE",
+      "driversLicense": "A7809457",
+      "dateOfBirth": "1/22/1956",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "5137296",
+      "caseNumber": "19IN-019479",
+      "citationNumber": "HV33859",
+      "fileDate": "2/7/2019",
+      "caseCaption": "SMITH, JOHN P",
+      "driversLicense": "C6123893",
+      "dateOfBirth": "1/3/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "5188231",
+      "caseNumber": "19IN-049772",
+      "citationNumber": "5Y9T004B4",
+      "fileDate": "5/16/2019",
+      "caseCaption": "BENNETT, COREY",
+      "driversLicense": "A7012574",
+      "dateOfBirth": "6/29/1973",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "5200767",
+      "caseNumber": "19IN-058549",
+      "citationNumber": "JK54407",
+      "fileDate": "5/11/2019",
+      "caseCaption": "SMITH, JOHN CHARLES",
+      "driversLicense": "N7800467",
+      "dateOfBirth": "8/26/1961",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "5204211",
+      "caseNumber": "19IN-060845",
+      "citationNumber": "CW69573",
+      "fileDate": "5/19/2019",
+      "caseCaption": "SMITH, JOHN BENTON",
+      "driversLicense": "000005860349",
+      "dateOfBirth": "11/27/1962",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "5221842",
+      "caseNumber": "MVI19005697",
+      "citationNumber": "4211817",
+      "fileDate": "4/17/2019",
+      "caseCaption": "Bam Bam",
+      "driversLicense": "A5980915",
+      "dateOfBirth": "3/14/1972",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "5228221",
+      "caseNumber": "19IN-075464",
+      "citationNumber": "JP00401",
+      "fileDate": "6/15/2019",
+      "caseCaption": "SMITH, JOHN NATHANIEL",
+      "driversLicense": "D08747640",
+      "dateOfBirth": "3/4/1998",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "5254312",
+      "caseNumber": "19IN-092511",
+      "citationNumber": "DV70415",
+      "fileDate": "6/18/2019",
+      "caseCaption": "SMITH, JOHN ALEXANDER",
+      "driversLicense": "102740904",
+      "dateOfBirth": "5/29/1988",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "5335751",
+      "caseNumber": "MWV20000011",
+      "citationNumber": "103342",
+      "fileDate": "10/19/2019",
+      "caseCaption": "MOATS, JOHN WAYNE",
+      "driversLicense": "F3253850",
+      "dateOfBirth": "12/12/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "5817760",
+      "caseNumber": "20IN-033151",
+      "citationNumber": "KA37662",
+      "fileDate": "3/5/2020",
+      "caseCaption": "SMITH, JOHN L",
+      "driversLicense": "N6056740",
+      "dateOfBirth": "1/5/1958",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "5820943",
+      "caseNumber": "20IN-035723",
+      "citationNumber": "4120912",
+      "fileDate": "3/25/2020",
+      "caseCaption": "BARNBIN, JERRY DEPREE",
+      "driversLicense": "A5980915",
+      "dateOfBirth": "3/14/1972",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "5850500",
+      "caseNumber": "MSB20007623",
+      "citationNumber": "1050437",
+      "fileDate": "6/8/2020",
+      "caseCaption": "SMITH, JOHN GRANVILLE",
+      "driversLicense": "N5753586",
+      "dateOfBirth": "10/19/1959",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "5879814",
+      "caseNumber": "MSB20010398",
+      "citationNumber": "KA41789",
+      "fileDate": "7/25/2020",
+      "caseCaption": "JONES, TIMOTHY",
+      "driversLicense": "A1756964",
+      "dateOfBirth": "7/11/1968",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "6824233",
+      "caseNumber": "21IN-033532",
+      "citationNumber": "KK56772",
+      "fileDate": "4/7/2021",
+      "caseCaption": "SMITH, JOHN WESLEY",
+      "driversLicense": "D09284807",
+      "dateOfBirth": "3/25/1981",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "7942034",
+      "caseNumber": "21IN-049528",
+      "citationNumber": "CHI5500294",
+      "fileDate": "5/28/2021",
+      "caseCaption": "SMITH, JOHN NORMAN",
+      "driversLicense": "D3696377",
+      "dateOfBirth": "5/22/1966",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "7963850",
+      "caseNumber": "21IN-057054",
+      "citationNumber": "P158433",
+      "fileDate": "6/24/2021",
+      "caseCaption": "WARE, BRANDON KIETH",
+      "driversLicense": "D2460895",
+      "dateOfBirth": "12/16/1981",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "8261152",
+      "caseNumber": "22IN-078941",
+      "citationNumber": "4077216",
+      "fileDate": "8/15/2022",
+      "caseCaption": "WARE, BRANDON KEITH",
+      "driversLicense": "D2460895",
+      "dateOfBirth": "12/16/1981",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "8271239",
+      "caseNumber": "22IN-083459",
+      "citationNumber": "LD28052",
+      "fileDate": "8/31/2022",
+      "caseCaption": "SMITH, JOHN WILLIAM",
+      "driversLicense": "A0579958",
+      "dateOfBirth": "7/14/1952",
+      "caseStatus": "Inactive"
+    },
+    {
+      "caseId": "8412870",
+      "caseNumber": "MVI23002242",
+      "citationNumber": "4075081",
+      "fileDate": "2/14/2023",
+      "caseCaption": "SMITH, JOHN EDWARD",
+      "driversLicense": "A5588185",
+      "dateOfBirth": "5/29/1971",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "8520567",
+      "caseNumber": "23IN-077678",
+      "citationNumber": "LD37231",
+      "fileDate": "7/18/2023",
+      "caseCaption": "LOPEZ, JORGE RIVERA",
+      "driversLicense": "B9337334",
+      "dateOfBirth": "3/10/1981",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "8610188",
+      "caseNumber": "23IN-119487",
+      "citationNumber": "7J4C001Z8",
+      "fileDate": "12/1/2023",
+      "caseCaption": "LOPEZ, JORGE RIVERA",
+      "driversLicense": "B9337334",
+      "dateOfBirth": "3/10/1981",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "8879002",
+      "caseNumber": "24IN-120694",
+      "citationNumber": "RR59020",
+      "fileDate": "10/2/2024",
+      "caseCaption": "SMITH, JOHN",
+      "driversLicense": "E0963743",
+      "dateOfBirth": "11/7/1954",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "9062800",
+      "caseNumber": "25IN-049514",
+      "citationNumber": "7J0S00C8D",
+      "fileDate": "12/17/2024",
+      "caseCaption": "SMITH, JOHN E",
+      "driversLicense": "PW647495",
+      "dateOfBirth": "11/22/1950",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "9108368",
+      "caseNumber": "25IN-072403",
+      "citationNumber": "RS68378",
+      "fileDate": "5/23/2025",
+      "caseCaption": "BARABIN, JERRY DUPREE",
+      "driversLicense": "A5980915",
+      "dateOfBirth": "3/14/1972",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "9129146",
+      "caseNumber": "25IN-083871",
+      "citationNumber": "RIA525891",
+      "fileDate": "6/30/2025",
+      "caseCaption": "GREEN, GEROLD BRIAN",
+      "driversLicense": "A1736056",
+      "dateOfBirth": "1/27/1970",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "9195677",
+      "caseNumber": "25IN-115689",
+      "citationNumber": "RT32947",
+      "fileDate": "8/18/2025",
+      "caseCaption": "SMITH, JOHN KEVIN",
+      "driversLicense": "1501896558",
+      "dateOfBirth": "4/9/1969",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "9204230",
+      "caseNumber": "25IN-120184",
+      "citationNumber": "RT28848",
+      "fileDate": "9/5/2025",
+      "caseCaption": "SMITH, JOHN RICHARD",
+      "driversLicense": "N7019665",
+      "dateOfBirth": "10/18/1960",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "9249961",
+      "caseNumber": "25IN-142116",
+      "citationNumber": "SM51487",
+      "fileDate": "10/17/2025",
+      "caseCaption": "SMITH, JOHN KEVIN",
+      "driversLicense": "C0403815",
+      "dateOfBirth": "9/19/1961",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "9279518",
+      "caseNumber": "25IN-156467",
+      "citationNumber": "7J4V0015S",
+      "fileDate": "12/11/2025",
+      "caseCaption": "SMITH, JOHN ADRIAN",
+      "driversLicense": "D07006530",
+      "dateOfBirth": "3/23/1958",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "9367520",
+      "caseNumber": "26IN-029260",
+      "citationNumber": "7JC0008R4",
+      "fileDate": "3/11/2026",
+      "caseCaption": "SMITH, JOHN DAVID",
+      "driversLicense": "V9089870",
+      "dateOfBirth": "10/28/1961",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "9422866",
+      "caseNumber": "26IN-055962",
+      "citationNumber": "7JHY009PL",
+      "fileDate": "5/1/2026",
+      "caseCaption": "JOHN, SMITH MICHAEL",
+      "driversLicense": "D9915848",
+      "dateOfBirth": "8/1/1988",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "9452478",
+      "caseNumber": "26IN-070131",
+      "citationNumber": "RR70265",
+      "fileDate": "4/15/2026",
+      "caseCaption": "SMITH, JOHN RICHARD",
+      "driversLicense": "660704258",
+      "dateOfBirth": "3/15/1970",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "9470826",
+      "caseNumber": "26IN-080233",
+      "citationNumber": "SM54625",
+      "fileDate": "5/23/2026",
+      "caseCaption": "SMITH, JOHN ANDREW",
+      "driversLicense": "N6820722",
+      "dateOfBirth": "7/12/1960",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "9571857",
+      "caseNumber": "26IN-134380",
+      "citationNumber": "021887",
+      "fileDate": "7/1/2026",
+      "caseCaption": "SMITH, JOHN PHILIP",
+      "driversLicense": "C6123893",
+      "dateOfBirth": "1/3/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "9577901",
+      "caseNumber": "26IN-137296",
+      "citationNumber": "7M2600HZX",
+      "fileDate": "9/22/2026",
+      "caseCaption": "SMITH, JOHN ANTHONY",
+      "driversLicense": "P0994004",
+      "dateOfBirth": "2/29/1948",
+      "caseStatus": "Traffic School Pending"
+    },
+    {
+      "caseId": "9582321",
+      "caseNumber": "26IN-139021",
+      "citationNumber": "SB17109",
+      "fileDate": "9/13/2026",
+      "caseCaption": "SMITH, JOHN CHARLES",
+      "driversLicense": "N7800467",
+      "dateOfBirth": "8/26/1961",
+      "caseStatus": "Active"
+    }
+  ],
+  "result": 0,
+  "created": "2026-10-16T22:09:01.5359709Z",
+  "message": "Found 286 Case(s)"
+}

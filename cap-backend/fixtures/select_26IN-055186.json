@@ -1,0 +1,81 @@
+{
+  "data": {
+    "pocChanges": [
+      "Charge: VC4000(A)(1)-I: Vehicle Registration Fees Due",
+      "Charge: VC12500(A)-I: No Operator License",
+      "Charge: VC16028(a)-I: No Evidence of Financial Responsibility/Vehicle"
+    ],
+    "charges": [
+      "VC4000(A)(1)-I: Vehicle Registration Fees Due",
+      "VC12500(A)-I: No Operator License",
+      "VC16028(a)-I: No Evidence of Financial Responsibility/Vehicle",
+      "VC40508(A)-I: Violation of Promise to Appear"
+    ],
+    "inEligibleReasons": [],
+    "bailOptions": [
+      {
+        "id": "",
+        "code": "",
+        "description": "",
+        "text": "Proof of Correction: Pay in full. Proof of correction must be submitted to the Court.",
+        "amount": "1,665.00",
+        "option": 0
+      }
+    ],
+    "caseNumber": "26IN055186",
+    "caseId": "9421378",
+    "partyId": "733372",
+    "fullName": "RODRIGUEZ, PEDRO LUIS",
+    "bfAmount": "1,665.00",
+    "isPoc": true,
+    "hasPaymentPlan": false,
+    "pocMessage": "Proof of Corrections must be submitted to the Court.\r\n",
+    "isMa": false,
+    "maMessage": "",
+    "userMessage": null,
+    "isInvalid": false,
+    "isExtensionEligible": false,
+    "originalDate": null,
+    "extendedDate": null,
+    "extensionType": null,
+    "processingFee": 0,
+    "paymentTotal": 1700,
+    "paymentSetupFee": 35,
+    "paymentMonthlyFee": 170,
+    "paymentMonthlyAmount": 0,
+    "paymentPastAmount": 0,
+    "paymentLastMonthFee": 170,
+    "paymentMonths": 10,
+    "paymentDueOn": "16th",
+    "paymentDueDates": [
+      "10/16/2026",
+      "11/16/2026",
+      "12/16/2026",
+      "01/16/2027",
+      "02/16/2027",
+      "03/16/2027",
+      "04/16/2027",
+      "05/16/2027",
+      "06/16/2027",
+      "07/16/2027"
+    ],
+    "datesAndPayments": [
+      "10/16/2026 - $170.00",
+      "11/16/2026 - $170.00",
+      "12/16/2026 - $170.00",
+      "01/16/2027 - $170.00",
+      "02/16/2027 - $170.00",
+      "03/16/2027 - $170.00",
+      "04/16/2027 - $170.00",
+      "05/16/2027 - $170.00",
+      "06/16/2027 - $170.00",
+      "07/16/2027 - $170.00"
+    ],
+    "paymentStartDate": "10/16/2026",
+    "paymentFinalDueDate": "07/16/2027",
+    "trafficSchoolDueDate": null
+  },
+  "result": 0,
+  "created": "2026-10-16T20:50:38.8062298Z",
+  "message": "Found Traffic Case 26IN-055186"
+}

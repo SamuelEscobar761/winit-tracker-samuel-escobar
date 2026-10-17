@@ -1,0 +1,14 @@
+{
+  "searches": [
+    { "canonical_query": "rodriguez, pedro", "file": "search_pedro_rodriguez.json" },
+    { "canonical_query": "smith, john", "file": "search_john_smith.json" }
+  ],
+  "details": {
+    "26IN055186": "select_26IN-055186.json",
+    "25IN169374": "select_25IN-169374.json"
+  },
+  "templates": {
+    "proof_of_correction": "select_26IN-055186.json",
+    "payment_plan": "select_25IN-169374.json"
+  }
+}

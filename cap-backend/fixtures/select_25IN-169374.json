@@ -1,0 +1,76 @@
+{
+  "data": {
+    "pocChanges": [
+      "Charge: VC16028(a)-I: No Evidence of Financial Responsibility/Vehicle"
+    ],
+    "charges": [],
+    "inEligibleReasons": [],
+    "bailOptions": [
+      {
+        "id": "40755",
+        "code": "PPE",
+        "description": "Payment Plan Extension",
+        "text": "Fines & Fees Due Extension: Current Date is 11/13/2026 and will be extended to 12/13/2026.",
+        "amount": "0",
+        "option": 10
+      },
+      {
+        "id": "573683",
+        "code": "PAYP",
+        "description": "Partial",
+        "text": "Make a Monthly Payment (Due Date: 11/13/2026)",
+        "amount": "93.00",
+        "option": 2
+      },
+      {
+        "id": "573683",
+        "code": "PAYF",
+        "description": "Full",
+        "text": "Pay off the remainder of your Balance",
+        "amount": "186.00",
+        "option": 4
+      },
+      {
+        "id": "573683",
+        "code": "PAYC",
+        "description": "Custom Amount",
+        "text": "Pay a Custom Amount Between $93.00 - $186.00",
+        "amount": "93.00 - $186.00",
+        "option": 7
+      }
+    ],
+    "caseNumber": "25IN169374",
+    "caseId": "9337017",
+    "partyId": "13042314",
+    "fullName": "RODRIGUEZ, PEDRO ",
+    "bfAmount": "93.00",
+    "isPoc": true,
+    "hasPaymentPlan": true,
+    "pocMessage": "Proof of Corrections must be submitted to the Court.\r\n",
+    "isMa": false,
+    "maMessage": "",
+    "userMessage": null,
+    "isInvalid": false,
+    "isExtensionEligible": true,
+    "originalDate": "11/13/2026",
+    "extendedDate": "12/13/2026",
+    "extensionType": "PLANEXT",
+    "processingFee": 0.0,
+    "paymentTotal": 0.0,
+    "paymentSetupFee": 0.0,
+    "paymentMonthlyFee": 0.0,
+    "paymentMonthlyAmount": 93.00,
+    "paymentPastAmount": 0.00,
+    "paymentLastMonthFee": 0.0,
+    "paymentMonths": 0,
+    "paymentDueOn": null,
+    "paymentDueDates": null,
+    "datesAndPayments": null,
+    "paymentStartDate": null,
+    "paymentFinalDueDate": null,
+    "trafficSchoolDueDate": null
+  },
+  "result": 0,
+  "created": "2026-10-16T22:21:16.4999527Z",
+  "message": "Found Traffic Case 25IN-169374"
+}

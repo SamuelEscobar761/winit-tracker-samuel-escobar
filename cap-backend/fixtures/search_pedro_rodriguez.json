@@ -1,0 +1,1937 @@
+{
+  "data": [
+    {
+      "caseId": "5537",
+      "caseNumber": "000711MAPR",
+      "citationNumber": "000711MA",
+      "fileDate": "8/20/2003",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "C5763389",
+      "dateOfBirth": "5/22/1954",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "12724",
+      "caseNumber": "004326MBPR",
+      "citationNumber": "004326MB",
+      "fileDate": "5/24/2004",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "B5257460",
+      "dateOfBirth": "1/19/1976",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "15580",
+      "caseNumber": "006142SAPR",
+      "citationNumber": "006142SA",
+      "fileDate": "4/10/2006",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "B4667090",
+      "dateOfBirth": "1/28/1971",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "66104",
+      "caseNumber": "04792NLPR",
+      "citationNumber": "04792NL",
+      "fileDate": "11/5/2011",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "N9662845",
+      "dateOfBirth": "4/18/1962",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "118439",
+      "caseNumber": "076378SAPR",
+      "citationNumber": "076378SA",
+      "fileDate": "6/27/2012",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "D6181752",
+      "dateOfBirth": "7/18/1985",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "130791",
+      "caseNumber": "084703PR",
+      "citationNumber": "084703",
+      "fileDate": "5/16/2000",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "UNKNOWN",
+      "dateOfBirth": "4/19/1972",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "150082",
+      "caseNumber": "0964405PR",
+      "citationNumber": "0964405",
+      "fileDate": "3/3/2012",
+      "caseCaption": "RODRIGUEZ, PEDRO TELLEZ",
+      "driversLicense": "TELLEP23",
+      "dateOfBirth": "5/9/1977",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "173329",
+      "caseNumber": "108502",
+      "citationNumber": "108502",
+      "fileDate": "6/5/2006",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "",
+      "dateOfBirth": "3/4/1986",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "180260",
+      "caseNumber": "1118170PR",
+      "citationNumber": "1118170",
+      "fileDate": "5/14/2000",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "A6814797",
+      "dateOfBirth": "4/25/1971",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "182033",
+      "caseNumber": "113515PR",
+      "citationNumber": "113515",
+      "fileDate": "4/19/2004",
+      "caseCaption": "RODRIGUEZ, PEDRO RODRIGUEZ",
+      "driversLicense": "A0282377",
+      "dateOfBirth": "4/4/1939",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "186018",
+      "caseNumber": "117234",
+      "citationNumber": "117234",
+      "fileDate": "2/29/2008",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "D5878000",
+      "dateOfBirth": "8/30/1985",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "188493",
+      "caseNumber": "11988TPPR",
+      "citationNumber": "11988TP",
+      "fileDate": "10/19/2014",
+      "caseCaption": "RODRIGUEZ, PEDRO VILLEGAS",
+      "driversLicense": "N8281522",
+      "dateOfBirth": "6/29/1960",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "241419",
+      "caseNumber": "16395KUPR",
+      "citationNumber": "16395KU",
+      "fileDate": "5/24/2009",
+      "caseCaption": "RODRIGUEZ, PEDRO OREA",
+      "driversLicense": "",
+      "dateOfBirth": "11/23/1968",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "261608",
+      "caseNumber": "17581PR",
+      "citationNumber": "17581",
+      "fileDate": "11/29/2000",
+      "caseCaption": "RODRIGUEZ, PEDRO GAMBINO",
+      "driversLicense": "",
+      "dateOfBirth": "9/15/1980",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "270091",
+      "caseNumber": "1808466PR",
+      "citationNumber": "1808466",
+      "fileDate": "5/26/2001",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "B5257460",
+      "dateOfBirth": "1/19/1976",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "327252",
+      "caseNumber": "219941",
+      "citationNumber": "219941",
+      "fileDate": "3/25/2006",
+      "caseCaption": "RODRIGUEZ, PEDRO MIRANDA",
+      "driversLicense": "",
+      "dateOfBirth": "4/3/1963",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "354331",
+      "caseNumber": "2330906",
+      "citationNumber": "2330906",
+      "fileDate": "10/23/2005",
+      "caseCaption": "RODRIGUEZ, PEDRO HIGAREDA",
+      "driversLicense": "",
+      "dateOfBirth": "6/30/1980",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "366137",
+      "caseNumber": "238825PR",
+      "citationNumber": "238825",
+      "fileDate": "8/7/2001",
+      "caseCaption": "RODRIGUEZ, PEDRO ALBERTO",
+      "driversLicense": "B4392816",
+      "dateOfBirth": "7/26/1976",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "460161",
+      "caseNumber": "2893919PR",
+      "citationNumber": "2893919",
+      "fileDate": "11/26/2008",
+      "caseCaption": "RODRIGUEZ, PEDRO FLORES",
+      "driversLicense": "X6922224",
+      "dateOfBirth": "4/11/1979",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "499191",
+      "caseNumber": "3074792PR",
+      "citationNumber": "3074792",
+      "fileDate": "2/12/2011",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "D5878000",
+      "dateOfBirth": "8/30/1985",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "525683",
+      "caseNumber": "31712PQPR",
+      "citationNumber": "31712PQ",
+      "fileDate": "9/10/2012",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "B8516173",
+      "dateOfBirth": "12/6/1980",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "575831",
+      "caseNumber": "3307015PR",
+      "citationNumber": "3307015",
+      "fileDate": "10/19/2011",
+      "caseCaption": "RODRIGUEZ, PEDRO DANIEL",
+      "driversLicense": "F2835291",
+      "dateOfBirth": "4/30/1993",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "598913",
+      "caseNumber": "3373548PR",
+      "citationNumber": "3373548",
+      "fileDate": "10/17/2012",
+      "caseCaption": "ROMERO, PEDRO RODRIGUEZ",
+      "driversLicense": "",
+      "dateOfBirth": "10/1/1977",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "612030",
+      "caseNumber": "3415250PR",
+      "citationNumber": "3415250",
+      "fileDate": "1/18/2013",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "D5878000",
+      "dateOfBirth": "8/30/1985",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "614465",
+      "caseNumber": "3422257PR",
+      "citationNumber": "3422257",
+      "fileDate": "5/18/2013",
+      "caseCaption": "RODRIGUEZ, PEDRO GARCIA",
+      "driversLicense": "X5665578",
+      "dateOfBirth": "6/28/1980",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "615387",
+      "caseNumber": "3423707PR",
+      "citationNumber": "3423707",
+      "fileDate": "10/14/2012",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "A6075650",
+      "dateOfBirth": "4/5/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "615388",
+      "caseNumber": "3423708PR",
+      "citationNumber": "3423708",
+      "fileDate": "10/14/2012",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "A6075650",
+      "dateOfBirth": "4/5/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "615389",
+      "caseNumber": "3423709PR",
+      "citationNumber": "3423709",
+      "fileDate": "10/14/2012",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "A6075650",
+      "dateOfBirth": "4/5/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "625603",
+      "caseNumber": "345397PR",
+      "citationNumber": "345397",
+      "fileDate": "5/30/2008",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "D5878000",
+      "dateOfBirth": "8/30/1985",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "655500",
+      "caseNumber": "371943PR",
+      "citationNumber": "371943",
+      "fileDate": "4/27/2011",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "",
+      "dateOfBirth": "",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "709544",
+      "caseNumber": "42228HUPR",
+      "citationNumber": "42228HU",
+      "fileDate": "4/25/2008",
+      "caseCaption": "RODRIGUEZ, PEDRO HERNANDEZ",
+      "driversLicense": "",
+      "dateOfBirth": "6/29/1987",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "724168",
+      "caseNumber": "43429PWPR",
+      "citationNumber": "43429PW",
+      "fileDate": "6/14/2012",
+      "caseCaption": "RODRIGUEZ, PEDRO RICARDO",
+      "driversLicense": "A5831089",
+      "dateOfBirth": "3/10/1971",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "726770",
+      "caseNumber": "43643RBN",
+      "citationNumber": "43643RB",
+      "fileDate": "9/23/2002",
+      "caseCaption": "NORCAL WASTE SERVICES INC",
+      "driversLicense": "",
+      "dateOfBirth": "",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "726771",
+      "caseNumber": "43643RBPR",
+      "citationNumber": "43643RB",
+      "fileDate": "9/23/2002",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "C3353604",
+      "dateOfBirth": "10/6/1965",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "756874",
+      "caseNumber": "45946QJPR",
+      "citationNumber": "45946QJ",
+      "fileDate": "5/1/2013",
+      "caseCaption": "RODRIGUEZ, PEDRO MILIAN",
+      "driversLicense": "A9222119",
+      "dateOfBirth": "9/9/1959",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "830232",
+      "caseNumber": "52074MMPR",
+      "citationNumber": "52074MM",
+      "fileDate": "6/14/2010",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "D5270807",
+      "dateOfBirth": "6/25/1984",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "836686",
+      "caseNumber": "52656PR",
+      "citationNumber": "52656",
+      "fileDate": "4/14/2013",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "U5113191",
+      "dateOfBirth": "3/8/1968",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "852310",
+      "caseNumber": "54074PR",
+      "citationNumber": "54074",
+      "fileDate": "12/29/2012",
+      "caseCaption": "RODRIGUEZ, PEDRO GARCIA",
+      "driversLicense": "X5665578",
+      "dateOfBirth": "6/28/1980",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "968165",
+      "caseNumber": "61147PRPR",
+      "citationNumber": "61147PR",
+      "fileDate": "1/1/2012",
+      "caseCaption": "RODRIGUEZ, PEDRO MILIAN",
+      "driversLicense": "A9222119",
+      "dateOfBirth": "9/9/1959",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "973151",
+      "caseNumber": "61601HHPR",
+      "citationNumber": "61601HH",
+      "fileDate": "8/12/2010",
+      "caseCaption": "RODRIGUEZ, PEDRO IVAN",
+      "driversLicense": "E2410530",
+      "dateOfBirth": "6/10/1991",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "980731",
+      "caseNumber": "622513PR",
+      "citationNumber": "622513",
+      "fileDate": "3/9/2000",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "N9524119",
+      "dateOfBirth": "11/18/1944",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "997429",
+      "caseNumber": "634044PR",
+      "citationNumber": "634044",
+      "fileDate": "12/23/2010",
+      "caseCaption": "RODRIGUEZ, PEDRO IVAN",
+      "driversLicense": "E2410530",
+      "dateOfBirth": "6/10/1991",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1046242",
+      "caseNumber": "666441PR",
+      "citationNumber": "666441",
+      "fileDate": "6/19/2012",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "N3136151",
+      "dateOfBirth": "7/30/1954",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1072826",
+      "caseNumber": "68541RDPR",
+      "citationNumber": "68541RD",
+      "fileDate": "9/23/2013",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "A3740430",
+      "dateOfBirth": "2/5/1966",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1164193",
+      "caseNumber": "77988LNPR",
+      "citationNumber": "77988LN",
+      "fileDate": "12/19/2009",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "U4004320",
+      "dateOfBirth": "3/16/1951",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1209162",
+      "caseNumber": "845540PR",
+      "citationNumber": "845540",
+      "fileDate": "3/8/2007",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "",
+      "dateOfBirth": "10/21/1988",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1248164",
+      "caseNumber": "89248UVPR",
+      "citationNumber": "89248UV",
+      "fileDate": "2/15/2005",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "B8516173",
+      "dateOfBirth": "12/6/1980",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1248173",
+      "caseNumber": "89249UVE",
+      "citationNumber": "89249UV",
+      "fileDate": "2/15/2005",
+      "caseCaption": "ECOLOGY AUTO PARTS INC",
+      "driversLicense": "",
+      "dateOfBirth": "",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1257182",
+      "caseNumber": "90139PWPR",
+      "citationNumber": "90139PW",
+      "fileDate": "5/3/2012",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "D5878000",
+      "dateOfBirth": "8/30/1985",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1298712",
+      "caseNumber": "937325PR",
+      "citationNumber": "937325",
+      "fileDate": "2/4/2010",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "E2627059",
+      "dateOfBirth": "10/14/1991",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1307421",
+      "caseNumber": "94512SVPR",
+      "citationNumber": "94512SV",
+      "fileDate": "4/15/2004",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "",
+      "dateOfBirth": "",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1404326",
+      "caseNumber": "C252942PR",
+      "citationNumber": "C252942",
+      "fileDate": "7/8/2013",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "C5387729",
+      "dateOfBirth": "10/24/1966",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1585201",
+      "caseNumber": "H019682BPR",
+      "citationNumber": "H019682B",
+      "fileDate": "3/21/2014",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "N9524119",
+      "dateOfBirth": "11/18/1944",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1624457",
+      "caseNumber": "M532120PR",
+      "citationNumber": "M532120",
+      "fileDate": "7/15/2001",
+      "caseCaption": "RODRIGUEZ, PEDRO ALBERTO",
+      "driversLicense": "B4392816",
+      "dateOfBirth": "7/26/1976",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1626988",
+      "caseNumber": "M582139",
+      "citationNumber": "M582139",
+      "fileDate": "11/28/2003",
+      "caseCaption": "RODRIGUEZ, PEDRO FLORES",
+      "driversLicense": "",
+      "dateOfBirth": "4/11/1979",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1670488",
+      "caseNumber": "MCH1000122",
+      "citationNumber": "C206608",
+      "fileDate": "1/1/2010",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "B8516173",
+      "dateOfBirth": "12/6/1980",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1702620",
+      "caseNumber": "MO00753309PR",
+      "citationNumber": "MO00753309",
+      "fileDate": "6/23/2010",
+      "caseCaption": "RODRIGUEZ, PEDRO HERNANDEZ",
+      "driversLicense": "D1919955",
+      "dateOfBirth": "6/16/1975",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1719597",
+      "caseNumber": "MO00794027PR",
+      "citationNumber": "MO00794027",
+      "fileDate": "2/14/2013",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "A6075650",
+      "dateOfBirth": "4/5/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1720842",
+      "caseNumber": "MO00797374PR",
+      "citationNumber": "MO00797374",
+      "fileDate": "5/10/2013",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "B8516173",
+      "dateOfBirth": "12/6/1980",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1934662",
+      "caseNumber": "MWV704978",
+      "citationNumber": "M687285",
+      "fileDate": "8/31/2007",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "A7765361",
+      "dateOfBirth": "1/27/1974",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "1981969",
+      "caseNumber": "SBCH0384PR",
+      "citationNumber": "SBCH0384",
+      "fileDate": "8/29/2012",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "E2627059",
+      "dateOfBirth": "10/14/1991",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2049216",
+      "caseNumber": "TSB100800",
+      "citationNumber": "JC58208",
+      "fileDate": "11/7/1998",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "C2357518",
+      "dateOfBirth": "8/28/1952",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2049923",
+      "caseNumber": "TSB101845",
+      "citationNumber": "216645",
+      "fileDate": "5/10/1999",
+      "caseCaption": "RODRIGUEZ, PEDRO MARIO",
+      "driversLicense": "",
+      "dateOfBirth": "7/18/1974",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2123426",
+      "caseNumber": "TWV23976",
+      "citationNumber": "HU08218",
+      "fileDate": "4/6/1998",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "B7232381",
+      "dateOfBirth": "2/21/1980",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2257152",
+      "caseNumber": "016057PR",
+      "citationNumber": "016057",
+      "fileDate": "1/29/1996",
+      "caseCaption": "RODRIGUEZ, PEDRO GARCIA",
+      "driversLicense": "NIP",
+      "dateOfBirth": "2/23/1964",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2257377",
+      "caseNumber": "016349PR",
+      "citationNumber": "016349",
+      "fileDate": "8/23/1996",
+      "caseCaption": "RODRIGUEZ, PEDRO ARMANDO",
+      "driversLicense": "",
+      "dateOfBirth": "9/27/1974",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2259281",
+      "caseNumber": "01890JPPR",
+      "citationNumber": "01890JP",
+      "fileDate": "6/22/2008",
+      "caseCaption": "RODRIGUEZ, PEDRO IVANIBARRA",
+      "driversLicense": "340772A",
+      "dateOfBirth": "9/1/1979",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "2298412",
+      "caseNumber": "07276HVPR",
+      "citationNumber": "07276HV",
+      "fileDate": "5/10/2008",
+      "caseCaption": "RODRIGUEZ, PEDRO DIAZ",
+      "driversLicense": "C4195263",
+      "dateOfBirth": "11/23/1965",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "2306961",
+      "caseNumber": "085411",
+      "citationNumber": "085411",
+      "fileDate": "7/23/2006",
+      "caseCaption": "RODRIGUEZ, PEDRO PACHECO",
+      "driversLicense": "B6516730",
+      "dateOfBirth": "6/29/1970",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "2321947",
+      "caseNumber": "0971283PH",
+      "citationNumber": "0971283",
+      "fileDate": "2/28/2013",
+      "caseCaption": "HERNANDEZ, PEDRO ALBERTO",
+      "driversLicense": "",
+      "dateOfBirth": "1/5/1970",
+      "caseStatus": "Probation"
+    },
+    {
+      "caseId": "2324933",
+      "caseNumber": "0977716PR",
+      "citationNumber": "0977716",
+      "fileDate": "8/2/2013",
+      "caseCaption": "RODRIGUEZ, PEDRO MOISES",
+      "driversLicense": "F2684267",
+      "dateOfBirth": "2/10/1994",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2344905",
+      "caseNumber": "1054112PR",
+      "citationNumber": "1054112",
+      "fileDate": "1/8/1995",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "X0122542",
+      "dateOfBirth": "7/19/1974",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2351625",
+      "caseNumber": "1100429PR",
+      "citationNumber": "1100429",
+      "fileDate": "6/25/1995",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "NIP",
+      "dateOfBirth": "7/2/1972",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2355650",
+      "caseNumber": "1125048PR",
+      "citationNumber": "1125048",
+      "fileDate": "11/23/1995",
+      "caseCaption": "RODRIGUEZ, PEDRO GARCIA",
+      "driversLicense": "A0000000",
+      "dateOfBirth": "12/29/1975",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2368317",
+      "caseNumber": "12134CQPR",
+      "citationNumber": "12134CQ",
+      "fileDate": "5/13/2007",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "",
+      "dateOfBirth": "6/28/1979",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "2388764",
+      "caseNumber": "1360097PR",
+      "citationNumber": "1360097",
+      "fileDate": "12/12/1997",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "NIP",
+      "dateOfBirth": "5/6/1960",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2407921",
+      "caseNumber": "150128PR",
+      "citationNumber": "150128",
+      "fileDate": "2/19/1994",
+      "caseCaption": "RODRIGUEZ, PEDRO CERDA",
+      "driversLicense": "NIP",
+      "dateOfBirth": "6/29/1969",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2421889",
+      "caseNumber": "163738PR",
+      "citationNumber": "163738",
+      "fileDate": "9/20/1996",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "X0123700",
+      "dateOfBirth": "2/2/1972",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2432922",
+      "caseNumber": "171819PR",
+      "citationNumber": "171819",
+      "fileDate": "8/28/2006",
+      "caseCaption": "RODRIGUEZ, PEDRO PABLO MCKENS",
+      "driversLicense": "D1971171",
+      "dateOfBirth": "6/29/1949",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "2435535",
+      "caseNumber": "17445PR",
+      "citationNumber": "17445",
+      "fileDate": "6/30/2008",
+      "caseCaption": "RODRIGUEZ, PEDRO JAVIERMELENA",
+      "driversLicense": "",
+      "dateOfBirth": "8/10/1984",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "2463313",
+      "caseNumber": "2081029",
+      "citationNumber": "2081029",
+      "fileDate": "5/4/2003",
+      "caseCaption": "RODRIGUEZ, PEDRO BELTRAN",
+      "driversLicense": "C4733234",
+      "dateOfBirth": "1/28/1950",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "2469690",
+      "caseNumber": "212778PR",
+      "citationNumber": "212778",
+      "fileDate": "1/21/1991",
+      "caseCaption": "RODRIGUEZ, PEDRO RAMIREZ",
+      "driversLicense": "NIP",
+      "dateOfBirth": "6/10/1967",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2479244",
+      "caseNumber": "22006PR",
+      "citationNumber": "22006",
+      "fileDate": "8/9/2008",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "",
+      "dateOfBirth": "8/30/1985",
+      "caseStatus": "Probation"
+    },
+    {
+      "caseId": "2518969",
+      "caseNumber": "247252PR",
+      "citationNumber": "247252",
+      "fileDate": "11/2/1992",
+      "caseCaption": "RODRIGUEZ, PEDRO ESPEJO",
+      "driversLicense": "A9993137",
+      "dateOfBirth": "4/29/1969",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2548369",
+      "caseNumber": "26605SHPR",
+      "citationNumber": "26605SH",
+      "fileDate": "4/30/2003",
+      "caseCaption": "RODRIGUEZ, PEDRO JOAQUIN",
+      "driversLicense": "R3626706",
+      "dateOfBirth": "8/16/1969",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2608380",
+      "caseNumber": "3075837PR",
+      "citationNumber": "3075837",
+      "fileDate": "2/3/2010",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "A6595269",
+      "dateOfBirth": "9/24/1968",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "2716753",
+      "caseNumber": "36204HUPR",
+      "citationNumber": "36204HU",
+      "fileDate": "4/4/2009",
+      "caseCaption": "RODRIGUEZ, PEDRO SALINAS",
+      "driversLicense": "",
+      "dateOfBirth": "3/20/1989",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "2745379",
+      "caseNumber": "392500PR",
+      "citationNumber": "392500",
+      "fileDate": "10/15/2000",
+      "caseCaption": "RODRIGUEZ, PEDRO GAETA",
+      "driversLicense": "",
+      "dateOfBirth": "5/7/1975",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2784677",
+      "caseNumber": "437791PR",
+      "citationNumber": "437791",
+      "fileDate": "2/13/1994",
+      "caseCaption": "RODRIGUEZ, PEDRO ISRAEL CASTI",
+      "driversLicense": "A9808106",
+      "dateOfBirth": "9/26/1973",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2799001",
+      "caseNumber": "45548KRPR",
+      "citationNumber": "45548KR",
+      "fileDate": "6/20/2009",
+      "caseCaption": "RODRIGUEZ, PEDRO SALINAS",
+      "driversLicense": "",
+      "dateOfBirth": "2/10/1987",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "2823708",
+      "caseNumber": "488793",
+      "citationNumber": "488793",
+      "fileDate": "5/9/2005",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "",
+      "dateOfBirth": "1/8/1972",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "2844115",
+      "caseNumber": "514144PR",
+      "citationNumber": "514144",
+      "fileDate": "11/23/1996",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "B5694462",
+      "dateOfBirth": "9/26/1976",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2846808",
+      "caseNumber": "51742MMPR",
+      "citationNumber": "51742MM",
+      "fileDate": "5/27/2010",
+      "caseCaption": "RODRIGUEZ, PEDRO GARCIA",
+      "driversLicense": "PR200612",
+      "dateOfBirth": "11/23/1978",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "2857870",
+      "caseNumber": "53165PR",
+      "citationNumber": "53165",
+      "fileDate": "12/18/1999",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "",
+      "dateOfBirth": "1/8/1968",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2868989",
+      "caseNumber": "545715PR",
+      "citationNumber": "545715",
+      "fileDate": "11/15/2001",
+      "caseCaption": "RODRIGUEZ, PEDRO JESUS",
+      "driversLicense": "",
+      "dateOfBirth": "12/23/1979",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2883584",
+      "caseNumber": "562854PR",
+      "citationNumber": "562854",
+      "fileDate": "7/21/1998",
+      "caseCaption": "RODRIGUEZ, PEDRO GONZALEZ",
+      "driversLicense": "UNK",
+      "dateOfBirth": "1/3/1973",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "2930006",
+      "caseNumber": "5Y7M000F3PR",
+      "citationNumber": "5Y7M000F3",
+      "fileDate": "8/12/2015",
+      "caseCaption": "RODRIGUEZ, PEDRO NONE",
+      "driversLicense": "A6705120",
+      "dateOfBirth": "7/23/1969",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2955954",
+      "caseNumber": "5YGR00028PR",
+      "citationNumber": "5YGR00028",
+      "fileDate": "1/23/2014",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "",
+      "dateOfBirth": "10/6/1965",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2971236",
+      "caseNumber": "614046PR",
+      "citationNumber": "614046",
+      "fileDate": "3/15/2010",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "N9600772",
+      "dateOfBirth": "12/13/1962",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "2979076",
+      "caseNumber": "624963PR",
+      "citationNumber": "624963",
+      "fileDate": "1/29/2011",
+      "caseCaption": "RODRIGUEZ, PEDRO JULIAN",
+      "driversLicense": "X8720986",
+      "dateOfBirth": "1/9/1962",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "2985439",
+      "caseNumber": "632424PR",
+      "citationNumber": "632424",
+      "fileDate": "8/29/2000",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "NONE",
+      "dateOfBirth": "4/21/1958",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "3000731",
+      "caseNumber": "649928PR",
+      "citationNumber": "649928",
+      "fileDate": "8/3/2001",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "X4150261",
+      "dateOfBirth": "6/28/1978",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "3007503",
+      "caseNumber": "65903PR",
+      "citationNumber": "65903",
+      "fileDate": "5/5/2014",
+      "caseCaption": "RODRIGUEZ, PEDRO ALVAREZ",
+      "driversLicense": "",
+      "dateOfBirth": "10/18/1980",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "3213851",
+      "caseNumber": "94782LNPR",
+      "citationNumber": "94782LN",
+      "fileDate": "1/3/2010",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "N4790801",
+      "dateOfBirth": "2/26/1943",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3243608",
+      "caseNumber": "AD2069177PR",
+      "citationNumber": "AD2069177",
+      "fileDate": "3/17/2014",
+      "caseCaption": "RODRIGUEZ, PEDRO MOISES",
+      "driversLicense": "F2684267",
+      "dateOfBirth": "2/10/1994",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3275806",
+      "caseNumber": "BP19793PR",
+      "citationNumber": "BP19793",
+      "fileDate": "8/8/1995",
+      "caseCaption": "RODRIGUEZ, PEDRO ISRAEL",
+      "driversLicense": "A9808106",
+      "dateOfBirth": "9/26/1973",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "3321976",
+      "caseNumber": "CN38208PR",
+      "citationNumber": "CN38208",
+      "fileDate": "11/4/2015",
+      "caseCaption": "RODRIGUEZ, PEDRO E",
+      "driversLicense": "N5581320",
+      "dateOfBirth": "8/12/1959",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3324422",
+      "caseNumber": "CN43133PR",
+      "citationNumber": "CN43133",
+      "fileDate": "1/20/2016",
+      "caseCaption": "RODRIGUEZ, PEDRO JOSE",
+      "driversLicense": "21053576",
+      "dateOfBirth": "4/2/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3596495",
+      "caseNumber": "JC59652PR",
+      "citationNumber": "JC59652",
+      "fileDate": "1/2/1999",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "B3572878",
+      "dateOfBirth": "10/22/1962",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "3624150",
+      "caseNumber": "LT93115PR",
+      "citationNumber": "LT93115",
+      "fileDate": "5/2/2000",
+      "caseCaption": "RODRIGUEZ, PEDRO J",
+      "driversLicense": "26003897",
+      "dateOfBirth": "12/10/1976",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "3639115",
+      "caseNumber": "M368908PR",
+      "citationNumber": "M368908",
+      "fileDate": "10/12/1995",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "A0000000",
+      "dateOfBirth": "4/28/1967",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "3641149",
+      "caseNumber": "M388791PR",
+      "citationNumber": "M388791",
+      "fileDate": "7/22/1997",
+      "caseCaption": "RODRIGUEZ, PEDRO PACHECO",
+      "driversLicense": "B6516730",
+      "dateOfBirth": "6/29/1970",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "3649734",
+      "caseNumber": "M469261PR",
+      "citationNumber": "M469261",
+      "fileDate": "6/21/2000",
+      "caseCaption": "RODRIGUEZ, PEDRO CAMACHO",
+      "driversLicense": "",
+      "dateOfBirth": "11/20/1969",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "3651964",
+      "caseNumber": "M486112PR",
+      "citationNumber": "M486112",
+      "fileDate": "11/1/1999",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "UNK",
+      "dateOfBirth": "4/25/1973",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "3657980",
+      "caseNumber": "M571522",
+      "citationNumber": "M571522",
+      "fileDate": "6/11/2003",
+      "caseCaption": "RODRIGUEZ, PEDRO NMN",
+      "driversLicense": "",
+      "dateOfBirth": "4/6/1979",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "3666174",
+      "caseNumber": "M641957PR",
+      "citationNumber": "M641957",
+      "fileDate": "5/26/2006",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "",
+      "dateOfBirth": "2/12/1985",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "3668633",
+      "caseNumber": "M662650",
+      "citationNumber": "M662650",
+      "fileDate": "4/14/2007",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "",
+      "dateOfBirth": "6/29/1985",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "3670319",
+      "caseNumber": "M677802",
+      "citationNumber": "M677802",
+      "fileDate": "5/27/2007",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "",
+      "dateOfBirth": "6/29/1985",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "3672408",
+      "caseNumber": "M695517PR",
+      "citationNumber": "M695517",
+      "fileDate": "3/5/2008",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "",
+      "dateOfBirth": "3/12/1985",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3678788",
+      "caseNumber": "MBA015416-2",
+      "citationNumber": "2458456",
+      "fileDate": "6/17/2006",
+      "caseCaption": "RODRIGUEZ, PEDRO ANDRES",
+      "driversLicense": "B5827622",
+      "dateOfBirth": "6/13/1979",
+      "caseStatus": "Probation"
+    },
+    {
+      "caseId": "3719390",
+      "caseNumber": "MO00723954PR",
+      "citationNumber": "MO00723954",
+      "fileDate": "1/30/2009",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "X8384894",
+      "dateOfBirth": "7/1/1969",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "3732287",
+      "caseNumber": "MO00810018PR",
+      "citationNumber": "MO00810018",
+      "fileDate": "2/8/2014",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "",
+      "dateOfBirth": "1/19/1976",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3773646",
+      "caseNumber": "MSB083115-1",
+      "citationNumber": "2311964",
+      "fileDate": "2/13/2005",
+      "caseCaption": "RODRIGUEZ, PEDRO LUIS CARDENA",
+      "driversLicense": "C6960028",
+      "dateOfBirth": "1/3/1970",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "3808898",
+      "caseNumber": "MSB25084",
+      "citationNumber": "1156266",
+      "fileDate": "12/11/1996",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "",
+      "dateOfBirth": "4/5/1970",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "3830031",
+      "caseNumber": "MVA034760",
+      "citationNumber": "38129",
+      "fileDate": "9/14/2001",
+      "caseCaption": "RODRIGUEZ, PEDRO OROSCO",
+      "driversLicense": "",
+      "dateOfBirth": "5/6/1960",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "3851738",
+      "caseNumber": "MVA800209",
+      "citationNumber": "546016",
+      "fileDate": "12/29/2007",
+      "caseCaption": "HERNANDEZ, ABEL LEON",
+      "driversLicense": "",
+      "dateOfBirth": "7/7/1974",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "3947410",
+      "caseNumber": "MWV103041",
+      "citationNumber": "M631153",
+      "fileDate": "12/25/2005",
+      "caseCaption": "RODRIGUEZ, PEDRO FLORES",
+      "driversLicense": "",
+      "dateOfBirth": "4/11/1979",
+      "caseStatus": "Pending Adjudication"
+    },
+    {
+      "caseId": "3948432",
+      "caseNumber": "MWV104560",
+      "citationNumber": "2332597",
+      "fileDate": "4/10/2006",
+      "caseCaption": "RODRIGUEZ, PEDRO LOZANO",
+      "driversLicense": "",
+      "dateOfBirth": "5/10/1982",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "3950559",
+      "caseNumber": "MWV107832",
+      "citationNumber": "M666002",
+      "fileDate": "9/21/2006",
+      "caseCaption": "RODRIGUEZ, PEDRO TOLENTINO",
+      "driversLicense": "",
+      "dateOfBirth": "8/25/1981",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "3951701",
+      "caseNumber": "MWV109713",
+      "citationNumber": "M650314",
+      "fileDate": "12/6/2006",
+      "caseCaption": "RODRIGUEZ, PEDRO LOZANO",
+      "driversLicense": "",
+      "dateOfBirth": "5/10/1982",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "4009782",
+      "caseNumber": "P110633",
+      "citationNumber": "P110633",
+      "fileDate": "1/7/2005",
+      "caseCaption": "RODRIGUEZ, PEDRO DURAN",
+      "driversLicense": "",
+      "dateOfBirth": "6/29/1982",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "4016489",
+      "caseNumber": "P87017PR",
+      "citationNumber": "P87017",
+      "fileDate": "8/14/1997",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "UNK",
+      "dateOfBirth": "4/29/1960",
+      "caseStatus": "Pending Adjudication"
+    },
+    {
+      "caseId": "4077068",
+      "caseNumber": "TCH1200715",
+      "citationNumber": "57145PR",
+      "fileDate": "8/28/2012",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "U6124803",
+      "dateOfBirth": "6/27/1968",
+      "caseStatus": "Pending Adjudication"
+    },
+    {
+      "caseId": "4079563",
+      "caseNumber": "TCH31711",
+      "citationNumber": "2099022",
+      "fileDate": "4/28/2003",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "",
+      "dateOfBirth": "4/5/1970",
+      "caseStatus": "Probation"
+    },
+    {
+      "caseId": "4117664",
+      "caseNumber": "TSB1300985",
+      "citationNumber": "99184QQ",
+      "fileDate": "1/14/2013",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "C4043341",
+      "dateOfBirth": "6/28/1961",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "4132175",
+      "caseNumber": "TVA1000365",
+      "citationNumber": "606267",
+      "fileDate": "1/1/2010",
+      "caseCaption": "RODRIGUEZ, PEDRO JULIAN",
+      "driversLicense": "X8720986",
+      "dateOfBirth": "1/9/1962",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "4133792",
+      "caseNumber": "TVA1200188",
+      "citationNumber": "656918",
+      "fileDate": "12/12/2011",
+      "caseCaption": "RODRIGUEZ, PEDRO JULIAN",
+      "driversLicense": "X8720986",
+      "dateOfBirth": "1/9/1962",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "4140483",
+      "caseNumber": "TVA84325",
+      "citationNumber": "372468",
+      "fileDate": "9/9/1999",
+      "caseCaption": "RODRIGUEZ, PEDRO ESPEJO",
+      "driversLicense": "X4507679",
+      "dateOfBirth": "4/29/1969",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "4144529",
+      "caseNumber": "TVA92976",
+      "citationNumber": "479671",
+      "fileDate": "4/19/2005",
+      "caseCaption": "RODRIGUEZ, PEDRO FLORES",
+      "driversLicense": "X4756010",
+      "dateOfBirth": "8/6/1950",
+      "caseStatus": "Pending Adjudication"
+    },
+    {
+      "caseId": "4145476",
+      "caseNumber": "TVA94766",
+      "citationNumber": "516559",
+      "fileDate": "6/16/2006",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "X4150261",
+      "dateOfBirth": "6/28/1978",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "4147239",
+      "caseNumber": "TVI050819",
+      "citationNumber": "68004RK",
+      "fileDate": "11/20/2002",
+      "caseCaption": "RODRIGUEZ, PEDRO JOAQUIN",
+      "driversLicense": "R3626706",
+      "dateOfBirth": "8/16/1969",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "4163397",
+      "caseNumber": "TVI700529",
+      "citationNumber": "42349CW",
+      "fileDate": "2/28/2007",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "X7386177",
+      "dateOfBirth": "5/7/1972",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "4179076",
+      "caseNumber": "TWV051430",
+      "citationNumber": "M640546",
+      "fileDate": "5/19/2006",
+      "caseCaption": "RODRIGUEZ, PEDRO FLORES",
+      "driversLicense": "",
+      "dateOfBirth": "4/11/1979",
+      "caseStatus": "Pending Adjudication"
+    },
+    {
+      "caseId": "4180250",
+      "caseNumber": "TWV053877",
+      "citationNumber": "15307DA",
+      "fileDate": "11/23/2006",
+      "caseCaption": "RODRIGUEZ, PEDRO HERNANDEZ",
+      "driversLicense": "",
+      "dateOfBirth": "7/30/1960",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4192287",
+      "caseNumber": "TWV1500422",
+      "citationNumber": "MO00735930",
+      "fileDate": "10/4/2014",
+      "caseCaption": "RODRIGUEZ, PEDRO MANUEL",
+      "driversLicense": "F5474029",
+      "dateOfBirth": "7/9/1993",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4203670",
+      "caseNumber": "TWV803746",
+      "citationNumber": "MO00717071",
+      "fileDate": "9/29/2008",
+      "caseCaption": "RODRIGUEZ, PEDRO FLORES",
+      "driversLicense": "",
+      "dateOfBirth": "4/11/1979",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4215981",
+      "caseNumber": "U224658PR",
+      "citationNumber": "U224658",
+      "fileDate": "2/17/1998",
+      "caseCaption": "RODRIGUEZ, PEDRO ANTONIO",
+      "driversLicense": "C6409225",
+      "dateOfBirth": "11/28/1966",
+      "caseStatus": "Pending Adjudication"
+    },
+    {
+      "caseId": "4218737",
+      "caseNumber": "U250437PR",
+      "citationNumber": "U250437",
+      "fileDate": "3/1/2000",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "UNK",
+      "dateOfBirth": "6/28/1971",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4223213",
+      "caseNumber": "U302304",
+      "citationNumber": "U302304",
+      "fileDate": "3/19/2003",
+      "caseCaption": "RODRIGUEZ, PEDRO JESUS",
+      "driversLicense": "",
+      "dateOfBirth": "11/28/1978",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "4231338",
+      "caseNumber": "U409182PR",
+      "citationNumber": "U409182",
+      "fileDate": "5/30/2008",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "",
+      "dateOfBirth": "12/24/1971",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "4246962",
+      "caseNumber": "UK08985PR",
+      "citationNumber": "UK08985",
+      "fileDate": "10/5/1992",
+      "caseCaption": "RODRIGUEZ, PEDRO ISRAEL",
+      "driversLicense": "A9808106",
+      "dateOfBirth": "9/26/1973",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "4284725",
+      "caseNumber": "VCM0300050PR",
+      "citationNumber": "VCM0300050",
+      "fileDate": "5/20/2015",
+      "caseCaption": "RODRIGUEZ, PEDRO DANIEL",
+      "driversLicense": "",
+      "dateOfBirth": "4/30/1993",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4329100",
+      "caseNumber": "16IN-006572",
+      "citationNumber": "C275279",
+      "fileDate": "2/11/2016",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "D8490741",
+      "dateOfBirth": "2/20/1981",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4392451",
+      "caseNumber": "16CR-010002",
+      "citationNumber": "3627969",
+      "fileDate": "11/13/2015",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "",
+      "dateOfBirth": "11/3/1994",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4473250",
+      "caseNumber": "16IN-065646",
+      "citationNumber": "CQ83716",
+      "fileDate": "6/28/2016",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "U4004320",
+      "dateOfBirth": "3/14/1951",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4524348",
+      "caseNumber": "16CR-053066",
+      "citationNumber": "C280899",
+      "fileDate": "9/15/2016",
+      "caseCaption": "RODRIGUEZ, PEDRO ARMANDO",
+      "driversLicense": "A8208656",
+      "dateOfBirth": "9/27/1974",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4562871",
+      "caseNumber": "16IN-120632",
+      "citationNumber": "DA00210",
+      "fileDate": "11/2/2016",
+      "caseCaption": "RODRIGUEZ, PEDRO RUBEN",
+      "driversLicense": "F1916157",
+      "dateOfBirth": "2/1/1992",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4628033",
+      "caseNumber": "MWV17005547",
+      "citationNumber": "775353",
+      "fileDate": "2/20/2017",
+      "caseCaption": "Rodriguez, Pedro",
+      "driversLicense": "F4263443",
+      "dateOfBirth": "4/26/1994",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4681731",
+      "caseNumber": "17IN-057421",
+      "citationNumber": "5YBC001XP",
+      "fileDate": "5/10/2017",
+      "caseCaption": "RODRIGUEZ, PEDRO OMAR",
+      "driversLicense": "D2784164",
+      "dateOfBirth": "7/1/1985",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4697421",
+      "caseNumber": "17IN-065406",
+      "citationNumber": "88787",
+      "fileDate": "4/25/2017",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "F7474300",
+      "dateOfBirth": "6/29/1997",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4748435",
+      "caseNumber": "17IN-097091",
+      "citationNumber": "U480602",
+      "fileDate": "6/11/2017",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "A5390446",
+      "dateOfBirth": "8/27/1969",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4863787",
+      "caseNumber": "18IN-008858",
+      "citationNumber": "408316",
+      "fileDate": "1/3/2018",
+      "caseCaption": "RODRIGUEZ, PEDRO ANGEL",
+      "driversLicense": "Y2730226",
+      "dateOfBirth": "8/20/1997",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4883300",
+      "caseNumber": "18IN-020944",
+      "citationNumber": "RCA0403359",
+      "fileDate": "2/22/2018",
+      "caseCaption": "RODRIGUEZ, PEDRO ANGEL",
+      "driversLicense": "Y2730226",
+      "dateOfBirth": "8/20/1997",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "4959247",
+      "caseNumber": "18IN-067994",
+      "citationNumber": "272195",
+      "fileDate": "5/21/2018",
+      "caseCaption": "RODRIGUEZ, PEDRO LOPEZ",
+      "driversLicense": "N2272032",
+      "dateOfBirth": "7/28/1949",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "5030666",
+      "caseNumber": "18IN-110320",
+      "citationNumber": "HK91063",
+      "fileDate": "8/25/2018",
+      "caseCaption": "RODRIGUEZ, PEDRO IVAN",
+      "driversLicense": "E2410530",
+      "dateOfBirth": "6/10/1991",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "5102582",
+      "caseNumber": "18IN-162997",
+      "citationNumber": "DS08819",
+      "fileDate": "12/15/2018",
+      "caseCaption": "RODRIGUEZ, PEDRO ANTONIO",
+      "driversLicense": "C4051467",
+      "dateOfBirth": "2/14/1963",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "5127333",
+      "caseNumber": "MMB19000140",
+      "citationNumber": "4039364",
+      "fileDate": "1/11/2019",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "C4698777",
+      "dateOfBirth": "8/4/1965",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "5861505",
+      "caseNumber": "20IN-065054",
+      "citationNumber": "ONH0027497",
+      "fileDate": "7/2/2020",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "C3353604",
+      "dateOfBirth": "10/6/1965",
+      "caseStatus": "Inactive"
+    },
+    {
+      "caseId": "6764566",
+      "caseNumber": "21IN-007191",
+      "citationNumber": "KP05580",
+      "fileDate": "1/2/2021",
+      "caseCaption": "RODRIGUEZ, PEDRO LUISGARZA",
+      "driversLicense": "E3784888",
+      "dateOfBirth": "7/5/1992",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "6778997",
+      "caseNumber": "21IN-014764",
+      "citationNumber": "HV29121",
+      "fileDate": "2/9/2021",
+      "caseCaption": "RODRIGUEZ, PEDRO AZAMORA",
+      "driversLicense": "F5127176",
+      "dateOfBirth": "12/19/1996",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "6786834",
+      "caseNumber": "21IN-017782",
+      "citationNumber": "5GD70023J",
+      "fileDate": "3/5/2021",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "E3093488",
+      "dateOfBirth": "8/5/1990",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "7990496",
+      "caseNumber": "MMB21001358",
+      "citationNumber": "4292616",
+      "fileDate": "5/3/2021",
+      "caseCaption": "Rodriguez, Pedro",
+      "driversLicense": "C4698777",
+      "dateOfBirth": "8/4/1965",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "8130172",
+      "caseNumber": "22IN-020572",
+      "citationNumber": "LK42252",
+      "fileDate": "2/24/2022",
+      "caseCaption": "RODRIGUEZ, PEDRO JUANBRITO",
+      "driversLicense": "N2255940",
+      "dateOfBirth": "6/29/1956",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "8143629",
+      "caseNumber": "22IN-026350",
+      "citationNumber": "DL24867",
+      "fileDate": "3/12/2022",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "A2092231",
+      "dateOfBirth": "3/7/1965",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "8181164",
+      "caseNumber": "22IN-041363",
+      "citationNumber": "4121837",
+      "fileDate": "5/4/2022",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "D6181752",
+      "dateOfBirth": "7/18/1985",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "8216785",
+      "caseNumber": "MWV22010262",
+      "citationNumber": "859909",
+      "fileDate": "6/22/2022",
+      "caseCaption": "RODRIGUEZ, PEDRO M",
+      "driversLicense": "F5474029",
+      "dateOfBirth": "7/9/1993",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "8221677",
+      "caseNumber": "22IN-061833",
+      "citationNumber": "LN41005",
+      "fileDate": "6/24/2022",
+      "caseCaption": "RODRIGUEZ, PEDRO OCTAVIOHERNANDEZ",
+      "driversLicense": "Y7344055",
+      "dateOfBirth": "6/27/1989",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "8346565",
+      "caseNumber": "22IN-117117",
+      "citationNumber": "LW93390",
+      "fileDate": "12/21/2022",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "D2521139",
+      "dateOfBirth": "8/1/1985",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "8417371",
+      "caseNumber": "23IN-031317",
+      "citationNumber": "7HYW007FV",
+      "fileDate": "4/7/2023",
+      "caseCaption": "RODRIGUEZ, PEDRO RAMOS",
+      "driversLicense": "Y6505838",
+      "dateOfBirth": "12/5/2001",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "8436755",
+      "caseNumber": "23IN-038712",
+      "citationNumber": "ONH0058363",
+      "fileDate": "4/14/2023",
+      "caseCaption": "RODRIGUEZ, PEDRO OMAR",
+      "driversLicense": "D2784164",
+      "dateOfBirth": "7/1/1985",
+      "caseStatus": "Inactive"
+    },
+    {
+      "caseId": "8512274",
+      "caseNumber": "MSB23008409",
+      "citationNumber": "436415",
+      "fileDate": "7/3/2023",
+      "caseCaption": "RODRIGUEZ, PEDRO MOISES",
+      "driversLicense": "F2684267",
+      "dateOfBirth": "2/10/1994",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "8515958",
+      "caseNumber": "23IN-076126",
+      "citationNumber": "1074865",
+      "fileDate": "7/10/2023",
+      "caseCaption": "RODRIGUEZ, PEDRO ANGEL",
+      "driversLicense": "Y2730226",
+      "dateOfBirth": "8/20/1997",
+      "caseStatus": "Inactive"
+    },
+    {
+      "caseId": "8571274",
+      "caseNumber": "23IN-101901",
+      "citationNumber": "ML18661",
+      "fileDate": "9/11/2023",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "E2627059",
+      "dateOfBirth": "10/14/1991",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "8642140",
+      "caseNumber": "MSB24000383",
+      "citationNumber": "1081404",
+      "fileDate": "12/25/2023",
+      "caseCaption": "RODRIGUEZ, PEDRO ELIARGARCIA",
+      "driversLicense": "",
+      "dateOfBirth": "6/26/1990",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "8677114",
+      "caseNumber": "24IN-020802",
+      "citationNumber": "KU85841",
+      "fileDate": "1/28/2024",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "Y6277489",
+      "dateOfBirth": "5/7/2001",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "8784271",
+      "caseNumber": "MWV24009346",
+      "citationNumber": "JC64040",
+      "fileDate": "4/7/2024",
+      "caseCaption": "RODRIGUEZ, PEDRO MANUEL",
+      "driversLicense": "F5474029",
+      "dateOfBirth": "7/9/1993",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "8814088",
+      "caseNumber": "24IN-089276",
+      "citationNumber": "7JC6001HJ",
+      "fileDate": "7/16/2024",
+      "caseCaption": "RODRIGUEZ, PEDRO LUIS",
+      "driversLicense": "D5878000",
+      "dateOfBirth": "8/30/1985",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "8844155",
+      "caseNumber": "24IN-103482",
+      "citationNumber": "RIA514888",
+      "fileDate": "7/10/2024",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "D5969693",
+      "dateOfBirth": "6/29/1977",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "8996809",
+      "caseNumber": "MWV25003071",
+      "citationNumber": "166260",
+      "fileDate": "1/13/2025",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "X0623612",
+      "dateOfBirth": "10/18/1980",
+      "caseStatus": "Warrant"
+    },
+    {
+      "caseId": "9257959",
+      "caseNumber": "25IN-146136",
+      "citationNumber": "RS67465",
+      "fileDate": "10/23/2025",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "D6181752",
+      "dateOfBirth": "7/18/1985",
+      "caseStatus": "Active"
+    },
+    {
+      "caseId": "9337017",
+      "caseNumber": "25IN-169374",
+      "citationNumber": "7J2V0003Q",
+      "fileDate": "10/2/2025",
+      "caseCaption": "RODRIGUEZ, PEDRO",
+      "driversLicense": "E2625013",
+      "dateOfBirth": "5/4/2003",
+      "caseStatus": "AR Fine"
+    },
+    {
+      "caseId": "9404257",
+      "caseNumber": "26IN-046383",
+      "citationNumber": "RT49879",
+      "fileDate": "3/26/2026",
+      "caseCaption": "RODRIGUEZ, PEDRO MOISES",
+      "driversLicense": "F2684267",
+      "dateOfBirth": "2/10/1994",
+      "caseStatus": "Closed"
+    },
+    {
+      "caseId": "9421378",
+      "caseNumber": "26IN-055186",
+      "citationNumber": "RT49393",
+      "fileDate": "4/14/2026",
+      "caseCaption": "RODRIGUEZ, PEDRO LUIS",
+      "driversLicense": "D5878000",
+      "dateOfBirth": "8/30/1985",
+      "caseStatus": "Active"
+    }
+  ],
+  "result": 0,
+  "created": "2026-10-16T22:14:57.9499853Z",
+  "message": "Found 193 Case(s)"
+}
