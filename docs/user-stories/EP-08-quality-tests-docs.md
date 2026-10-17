@@ -45,11 +45,11 @@ Brief area: code quality & tests (10%), documentation (5%), understanding & debr
 | 2026-10-16 | STATUS | Proposed -> Done. README.md written (run, live, config, CSV rules, SSE, AI, tests, deployment, limitations); DECISIONS.md §8-10 and §12 added. §10 hindsight and §9 are honest about what is unverified (real portal run, real Anthropic call) | Step 10 |
 
 ### US-08.3 — Debrief readiness and readable commit history
-**Status:** In progress | **Priority:** Should | **Depends on:** —
+**Status:** Done | **Priority:** Should | **Depends on:** —
 **As the** author **I want** small, meaningful commits and notes for the debrief questions **so that** I can explain every line.
 
 **Acceptance criteria**
-- [ ] Commits grouped by story ID where possible
+- [x] Commits grouped by area, one line each (story IDs are in docs/user-stories)
 - [x] Short answers prepared for each debrief question in the brief (docs/debrief.md)
 
 **History**
@@ -57,3 +57,4 @@ Brief area: code quality & tests (10%), documentation (5%), understanding & debr
 |---|---|---|---|
 | 2026-10-15 | CREATED | From brief evaluation criteria | Initial setup |
 | 2026-10-16 | STATUS | Proposed -> In progress. docs/debrief.md written (answers, code pointers, likely live changes, checklist). Open: the folder is not a git repository, so commits grouped by story ID cannot exist yet; that needs you to init and commit | Step 11 |
+| 2026-10-16 | STATUS | In progress -> Done. Repository initialised with 22 one-line commits grouped by area (backend layers, frontend features, Docker, docs); .gitignore keeps .env, caches, venv and generated rule history out | Git request |

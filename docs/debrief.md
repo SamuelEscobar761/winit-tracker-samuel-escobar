@@ -38,4 +38,3 @@ See DECISIONS §10.
 - Run `docker compose up --build` (replica), upload the sample CSV, watch a CAPTCHA appear and solve it with one click in the live view.
 - Open `#/rules` and be ready to explain an incident, a canary and a rollback.
 - Run `python -m app.tools.live_smoke Pedro Rodriguez --headed` once against the real portal, supervised, so the live claims are first-hand.
-- This folder is not a git repository yet: initialise it and commit by story ID (US-xx) so the history is readable.

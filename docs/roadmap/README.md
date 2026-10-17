@@ -2,7 +2,7 @@
 
 Working plan, not a deliverable. Say **"siguiente"** and the next unchecked step is built, tested and logged. Requirements come from [../challenge-brief.md](../challenge-brief.md); behaviour from the stories in [../user-stories/](../user-stories/README.md); technical facts of the portal from [../cap-traffic-integration.md](../cap-traffic-integration.md); decisions in [../../DECISIONS.md](../../DECISIONS.md).
 
-**Current step:** 11 done except the commit history (the folder is not a git repository) · pending from you: supervised real-portal run, a real Anthropic call, optional public demo
+**Current step:** 11 done (git history created) · pending from you: supervised real-portal run, a real Anthropic call, optional public demo
 
 ## How each step runs
 
@@ -126,7 +126,7 @@ Stories updated for `/traffic`, DECISIONS §1–3/6/7 and the technical referenc
 - Added after review: browser-backed mock (`CAP_PROVIDER=replica`, US-01.11); Compose defaults to it.
 - Needs from you: accounts/URLs if you want the public demo.
 
-### Step 11 — Debrief readiness ✅ (commit history pending)
+### Step 11 — Debrief readiness ✅
 - Stories: US-08.3
 - [x] Short answers ([../debrief.md](../debrief.md)) for the brief's debrief questions (transport, concurrency 3×200, failure on the 47th name, DevTools evidence, two John Smiths, AI, live change, hindsight), readable commit history
 
