@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "max_attempts_per_person": 3,
+  "stop_after_first_with_results": true,
+  "name_particles": ["DE", "DEL", "LA", "LAS", "LOS", "SAN", "SANTA", "VAN", "VON", "DA", "DAS", "DO", "DOS", "DI", "LE"],
+  "strategies": [
+    { "id": "as_written", "enabled": true },
+    { "id": "first_surname_only", "enabled": true },
+    { "id": "last_surname_only", "enabled": true },
+    { "id": "joined_particles", "enabled": true },
+    { "id": "first_given_name_only", "enabled": true }
+  ],
+  "observations": []
+}
